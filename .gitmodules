@@ -1,0 +1,3 @@
+[submodule "aaltaf/aaltaf-muc"]
+	path = aaltaf/aaltaf-muc
+	url = https://github.com/nuutong/aaltaf-muc.git
