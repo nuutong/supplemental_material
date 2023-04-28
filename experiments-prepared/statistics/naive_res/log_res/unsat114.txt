@@ -1,0 +1,9 @@
+please input the formula:
+SAT:4
+UC:0
+MUC:
+(((m & (X p)) | (true U (h & (X (! p))))) | (true U ((p & (X p)) & (X (X h)))))
+(false R (((! p) | (N (! p))) | (X (X (! h)))))
+(false R ((! h) | (X p)))
+(false R ((! m) | (X (! p))))
+The run time is:0ms

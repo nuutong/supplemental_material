@@ -1,0 +1,12 @@
+please input the formula:
+SAT:3
+UC:1
+UCValid:1
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((! call) | (true U open)))
+(true U ((atfloor & call) & (false R (! open))))
+LengthComp:
+(2,2)
+The run time is:0ms

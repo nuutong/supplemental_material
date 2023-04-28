@@ -1,0 +1,13 @@
+please input the formula:
+SAT:30
+UC:15
+UCValid:3
+UCInvalid:12
+UCSatTime:660ms
+MUC:
+(false R ((((((((((! u) | (((((! bf0) | (X bf0)) & ((N (! bf0)) | bf0)) & (((! bf1) | (X bf1)) & ((N (! bf1)) | bf1))) & (((! bf2) | (X bf2)) & ((N (! bf2)) | bf2)))) & (((bf0 | bf1) | bf2) | (X ((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2)))))) & ((((! bf0) | bf1) | bf2) | (X (((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2))) | (((! bf0) & bf1) & (! bf2)))))) & (((bf0 | (! bf1)) | bf2) | (X ((((bf0 & (! bf1)) & (! bf2)) | (((! bf0) & bf1) & (! bf2))) | ((bf0 & bf1) & (! bf2)))))) & ((((! bf0) | (! bf1)) | bf2) | (X (((((! bf0) & bf1) & (! bf2)) | ((bf0 & bf1) & (! bf2))) | (((! bf0) & (! bf1)) & bf2))))) & (((bf0 | bf1) | (! bf2)) | (X ((((bf0 & bf1) & (! bf2)) | (((! bf0) & (! bf1)) & bf2)) | ((bf0 & (! bf1)) & bf2))))) & ((((! bf0) | bf1) | (! bf2)) | (X (((((! bf0) & (! bf1)) & bf2) | ((bf0 & (! bf1)) & bf2)) | (((! bf0) & bf1) & bf2))))) & (((bf0 | (! bf1)) | (! bf2)) | (X ((((bf0 & (! bf1)) & bf2) | (((! bf0) & bf1) & bf2)) | ((bf0 & bf1) & bf2))))) & ((((! bf0) | (! bf1)) | (! bf2)) | (X ((((! bf0) & bf1) & bf2) | ((bf0 & bf1) & bf2))))))
+LengthComp:
+(3,3)
+(2,2)
+(2,1)
+The run time is:66370ms

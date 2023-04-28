@@ -1,0 +1,14 @@
+please input the formula:
+SAT:11
+UC:5
+UCValid:2
+UCInvalid:1
+UCSatTime:30ms
+MUC:
+(false R (true U ((StoB_REQ3 & BtoS_ACK3) | ((! StoB_REQ3) & (! BtoS_ACK3)))))
+(false R (((! BtoS_ACK3) | (! StoB_REQ3)) | (X BtoS_ACK3)))
+(false R ((StoB_REQ3 | (X (! StoB_REQ3))) | (X (! BtoS_ACK3))))
+LengthComp:
+(3,3)
+(3,2)
+The run time is:1450ms

@@ -1,0 +1,6 @@
+2
+please input the formula:
+MUC:
+(false R (true U p5))
+(false R ((! p5) | (X (X (X (X (X (X p5))))))))
+The run time is:20ms

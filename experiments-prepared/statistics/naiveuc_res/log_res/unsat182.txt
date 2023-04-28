@@ -1,0 +1,13 @@
+please input the formula:
+SAT:5
+UC:5
+UCValid:0
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R (((! ta) | (X tc)) & ((N (! tc)) | ta)))
+(false R ((! ta) | (! go)))
+((go & (X tc)) | ((true U (cc & tc)) R ((true U (cc & tc)) | (false R (go & ta)))))
+(false R ((! tc) | (! cc)))
+LengthComp:
+The run time is:0ms

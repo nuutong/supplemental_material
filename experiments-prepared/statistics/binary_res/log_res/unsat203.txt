@@ -1,0 +1,8 @@
+please input the formula:
+SAT:4
+UC:0
+MUC:
+(X ((false R ((! ack) & delivered)) | (true U ((ack & (! delivered)) & send))))
+(false R ((! send) | ((! ack) U delivered)))
+(false R ((! delivered) | ((! send) U ack)))
+The run time is:0ms

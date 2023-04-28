@@ -1,0 +1,7 @@
+please input the formula:
+SAT:21
+UC:0
+MUC:
+a
+(false R ((! a) | (((((((((((((((((X (! a)) & (X (X (! a)))) & (X (X (X (! a))))) & (X (X (X (X (! a)))))) & (X (X (X (X (X (! a))))))) & (X (X (X (X (X (X (! a)))))))) & (X (X (X (X (X (X (X (! a))))))))) & (X (X (X (X (X (X (X (X (! a)))))))))) & (X (X (X (X (X (X (X (X (X (! a))))))))))) & (X (X (X (X (X (X (X (X (X (X (! a)))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (! a))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (! a)))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (X (! a))))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X (! a)))))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (! a))))))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (! a)))))))))))))))))) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X a))))))))))))))))))))
+The run time is:3880ms

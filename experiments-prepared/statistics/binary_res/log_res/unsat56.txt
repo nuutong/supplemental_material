@@ -1,0 +1,7 @@
+please input the formula:
+SAT:5
+UC:0
+MUC:
+(true U (call & (false R (! open))))
+(false R ((! call) | (true U open)))
+The run time is:0ms

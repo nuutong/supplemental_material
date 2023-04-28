@@ -1,0 +1,15 @@
+please input the formula:
+SAT:22
+UC:10
+UCValid:1
+UCInvalid:5
+UCSatTime:190ms
+MUC:
+(false R (((! a) | b) | ((! c) & (X (X (X (X (X (X (X (X (X (X (X (X (X b))))))))))))))))
+(false R ((c | (N a)) | (((X (! c)) & ((N (! b)) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X b)))))))))))))))) & ((N b) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (! b)))))))))))))))))))
+(false R ((! c) | (((N b) | ((X (! c)) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X b)))))))))))))))) & ((N (! b)) | ((X c) & (X (X (X (X (X (X (X (X (X (X (X (X (X (X (! b))))))))))))))))))))
+(X (X (! b)))
+(false R (((! a) | (! b)) | (c & (X (X (X (X (X (X (X (X (X (X (X (X (X (! b)))))))))))))))))
+LengthComp:
+(4,1)
+The run time is:1330ms

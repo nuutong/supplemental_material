@@ -1,0 +1,1 @@
+[](ta <-> X tc) && [](X cc -> (ca && go)) && [](ta -> !go) && [](tc -> !cc) && ((go && ta) || <>(cc && tc) || <>((ta && X !tc) || (!ta && X tc)) || <>((!ca || !go) && X cc))

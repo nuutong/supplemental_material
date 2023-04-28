@@ -1,0 +1,10 @@
+please input the formula:
+SAT:9
+UC:7
+UCValid:0
+UCInvalid:0
+UCSatTime:10ms
+MUC:
+(false R ((((! BtoS_ACK1) & (X BtoS_ACK1)) & (X (((SLC0 & (! SLC1)) & (! SLC2)) & (! SLC3)))) | ((BtoS_ACK1 | (X (! BtoS_ACK1))) & (X ((((! SLC0) | SLC1) | SLC2) | SLC3)))))
+LengthComp:
+The run time is:570ms

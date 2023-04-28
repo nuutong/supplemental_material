@@ -1,0 +1,10 @@
+please input the formula:
+SAT:8
+UC:0
+MUC:
+(false R ((c | (N a)) | (X (((! c) & ((! b) | (X (X (X b))))) & (b | (X (X (X (! b)))))))))
+(false R (((! a) | (! b)) | (c & (X (X (X (! b)))))))
+(false R (((! a) | b) | ((! c) & (X (X (X b))))))
+(X ((! b) & (X (! b))))
+(false R ((! c) | (X ((b | ((! c) & (X (X (X b))))) & ((! b) | (c & (X (X (X (! b))))))))))
+The run time is:40ms

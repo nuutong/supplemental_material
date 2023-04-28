@@ -1,0 +1,10 @@
+please input the formula:
+SAT:5
+UC:3
+UCValid:0
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((((! u) | (((! bf0) | (X bf0)) & ((N (! bf0)) | bf0))) & (bf0 | (X ((! bf0) | bf0)))) & ((! bf0) | (X ((! bf0) | bf0)))))
+LengthComp:
+The run time is:0ms

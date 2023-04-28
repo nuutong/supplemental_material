@@ -1,0 +1,10 @@
+please input the formula:
+SAT:12
+UC:9
+UCValid:0
+UCInvalid:0
+UCSatTime:10ms
+MUC:
+(false R (((RtoB_ACK0 & (X (! RtoB_ACK0))) | (RtoB_ACK1 & (X (! RtoB_ACK1)))) | (X (! DEQ))))
+LengthComp:
+The run time is:2100ms

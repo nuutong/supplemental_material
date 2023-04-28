@@ -1,0 +1,13 @@
+please input the formula:
+SAT:19
+UC:11
+UCValid:0
+UCInvalid:8
+UCSatTime:10ms
+MUC:
+(false R ((! c) | (((N b) | ((X (! c)) & (X (X (X (X (X (X b)))))))) & ((N (! b)) | ((X c) & (X (X (X (X (X (X (! b))))))))))))
+(false R ((c | (N a)) | (((X (! c)) & ((N (! b)) | (X (X (X (X (X (X b)))))))) & ((N b) | (X (X (X (X (X (X (! b)))))))))))
+(X (X (X (X (! b)))))
+(false R ((! a) | (((((X (! a)) & (X (X (! a)))) & (X (X (X (! a))))) & (X (X (X (X (! a)))))) & (X (X (X (X (X a))))))))
+LengthComp:
+The run time is:8270ms

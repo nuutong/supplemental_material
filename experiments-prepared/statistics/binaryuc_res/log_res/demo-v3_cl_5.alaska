@@ -1,0 +1,12 @@
+please input the formula:
+SAT:3
+UC:1
+UCValid:1
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((! req4) | (((X grant4) | (X (X grant4))) | (X (X (X grant4))))))
+(false R (true U req4))
+LengthComp:
+(2,2)
+The run time is:0ms

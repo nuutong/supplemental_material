@@ -1,0 +1,8 @@
+please input the formula:
+SAT:16
+UC:0
+MUC:
+(false R (true U StoB_REQ1))
+(false R ((! BtoS_ACK1) | (X (! StoB_REQ1))))
+(false R (((! StoB_REQ1) | BtoS_ACK1) | (X StoB_REQ1)))
+The run time is:4010ms

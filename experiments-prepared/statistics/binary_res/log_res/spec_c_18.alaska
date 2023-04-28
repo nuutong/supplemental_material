@@ -1,0 +1,6 @@
+please input the formula:
+SAT:13
+UC:0
+MUC:
+(false R ((((! BtoS_ACK8) & (X BtoS_ACK8)) & (X (((((! SLC0) & (! SLC1)) & (! SLC2)) & SLC3) & (! SLC4)))) | ((BtoS_ACK8 | (X (! BtoS_ACK8))) & (X ((((SLC0 | SLC1) | SLC2) | (! SLC3)) | SLC4)))))
+The run time is:1890ms

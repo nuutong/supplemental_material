@@ -1,0 +1,16 @@
+please input the formula:
+SAT:9
+UC:3
+UCValid:3
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((! q) | s))
+(false R ((! p) | (true U q)))
+(false R ((! r) | (false R (! s))))
+((r & (X p)) | (X (false R (X (false R (p & (! q)))))))
+LengthComp:
+(4,4)
+(3,2)
+(4,2)
+The run time is:10ms

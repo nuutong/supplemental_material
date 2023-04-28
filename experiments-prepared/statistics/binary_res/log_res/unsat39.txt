@@ -1,0 +1,8 @@
+please input the formula:
+SAT:6
+UC:0
+MUC:
+(false R ((l | (! p)) | m))
+(false R (p | ((! m) & (X l))))
+(X ((((! l) & (! m)) & p) | ((! p) & (m U (X (! l))))))
+The run time is:0ms

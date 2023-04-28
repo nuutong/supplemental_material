@@ -1,0 +1,12 @@
+please input the formula:
+SAT:97
+UC:55
+UCValid:1
+UCInvalid:41
+UCSatTime:360ms
+MUC:
+(false R ((BtoS_ACK0 | (X (! BtoS_ACK0))) | (X ENQ)))
+(false R ((! BtoS_ACK0) | (X (! StoB_REQ0))))
+LengthComp:
+(2,1)
+The run time is:5750ms

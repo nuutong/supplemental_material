@@ -1,0 +1,6 @@
+please input the formula:
+SAT:3
+UC:0
+MUC:
+(true U (false R (send & (X (! ack)))))
+The run time is:0ms

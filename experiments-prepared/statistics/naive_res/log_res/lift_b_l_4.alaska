@@ -1,0 +1,8 @@
+please input the formula:
+SAT:19
+UC:0
+MUC:
+(false R (true U b3))
+(false R (((((u | ((((((! b0) | (X b0)) & ((N (! b0)) | b0)) & (((! b1) | (X b1)) & ((N (! b1)) | b1))) & (((! b2) | (X b2)) & ((N (! b2)) | b2))) & (((! b3) | (X b3)) & ((N (! b3)) | b3)))) & (((! b0) | ((! bf0) & (! bf1))) | (X b0))) & (((! b1) | (bf0 & (! bf1))) | (X b1))) & (((! b2) | ((! bf0) & bf1)) | (X b2))) & (((! b3) | (bf0 & bf1)) | (X b3))))
+(false R (true U b0))
+The run time is:490ms

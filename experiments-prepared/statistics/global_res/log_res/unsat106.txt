@@ -1,0 +1,6 @@
+2
+please input the formula:
+global
+MUC:
+((false R (X (h & (X (! p))))) | (false R (true U (m & (X p)))))
+The run time is:0ms

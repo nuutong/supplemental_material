@@ -1,0 +1,13 @@
+please input the formula:
+SAT:4
+UC:2
+UCValid:2
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((X (false R ((! ack) & send))) | (false R ((! delivered) & send))))
+(false R ((! send) | ((! ack) U delivered)))
+LengthComp:
+(2,2)
+(2,1)
+The run time is:0ms

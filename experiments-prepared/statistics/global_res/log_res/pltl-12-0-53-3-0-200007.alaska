@@ -1,0 +1,6 @@
+2
+please input the formula:
+global
+MUC:
+(false R (((X p12) | (X p1)) | (X p11)))
+The run time is:10ms

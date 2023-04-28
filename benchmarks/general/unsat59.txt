@@ -1,0 +1,1 @@
+atfloor && [](X open -> atfloor) && [](call -> <>open) && <>(call && []!open)

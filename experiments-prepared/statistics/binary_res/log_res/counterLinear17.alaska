@@ -1,0 +1,7 @@
+please input the formula:
+SAT:4
+UC:0
+MUC:
+a
+(false R ((! a) | (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X a)))))))))))))))))))))))))))))))))))
+The run time is:400ms

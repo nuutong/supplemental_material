@@ -1,0 +1,6 @@
+2
+please input the formula:
+MUC:
+(false R ((! p7) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p7))))))))))))))))))))
+(false R (true U p7))
+The run time is:7300ms

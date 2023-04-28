@@ -1,0 +1,17 @@
+please input the formula:
+SAT:17
+UC:6
+UCValid:1
+UCInvalid:4
+UCSatTime:0ms
+MUC:
+(false R ((! o) | (! c)))
+(((! c) & (! d)) R ((! d) | ((! c) & (! d))))
+(false R ((! c) | (c U (d | o))))
+(false R ((! o) | (! f)))
+(false R ((! c) | (c U (d | f))))
+(false R ((! c) | (! f)))
+c
+LengthComp:
+(7,2)
+The run time is:0ms

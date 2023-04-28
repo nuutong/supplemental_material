@@ -1,0 +1,13 @@
+please input the formula:
+SAT:6
+UC:3
+UCValid:2
+UCInvalid:1
+UCSatTime:10ms
+MUC:
+a
+(false R ((! a) | (X ((! a) & (X ((! a) & (X ((! a) & (X a)))))))))
+LengthComp:
+(2,2)
+(2,1)
+The run time is:10ms

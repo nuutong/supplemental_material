@@ -1,0 +1,29 @@
+2
+please input the formula:
+global
+c *** MUSer2: a MUS extractor ***
+c *** commit-id: f84ca3b ***
+c *** built: 2021-May-31 10:40 ***
+c *** authors: Anton Belov, Joao Marques-Silva (anton@belov-mcdowell.com, jpms@ucd.ie) ***
+c *** contributors: Alessandro Previti ***
+c 
+c *** instance: ./mucInput.cnf39019 ***
+c *** config: -glucose -ph 3 -T 0 -v 0 ***
+c 
+c Parsing completed at CPU Time: 0.001105
+c Input size: 21 groups, 21 clauses, max.var=27.
+c Running MUSer2 ...
+c No trimming and no initial (UN)SAT check ...
+c CPU time of extraction only: 2.7e-05 sec
+c Calls to SAT solver during extraction: 2
+c Groups detected by model rotation: 10 out of 11
+c Groups removed with refinement: 9 out of 10
+c MUS size: 11 out of 21 clauses (52.381%)
+c Terminating MUSer2 ...
+c CPU Time: 0.001175
+The run time of muser2 is:0ms
+MUC:
+(false R ((! send) | ((! ack) U delivered)))
+(false R (send & ((! delivered) | ((! delivered) U (! ack)))))
+(false R ((! delivered) | ((! send) U ack)))
+The run time is:0ms

@@ -1,0 +1,12 @@
+please input the formula:
+SAT:7
+UC:0
+MUC:
+(false R ((! c) | (c U (d | f))))
+c
+(false R ((! c) | (! f)))
+(false R ((! o) | (! f)))
+(false R ((! c) | (c U (d | o))))
+(false R ((! o) | (! c)))
+(((! d) & o) R ((! d) | ((! d) & o)))
+The run time is:0ms

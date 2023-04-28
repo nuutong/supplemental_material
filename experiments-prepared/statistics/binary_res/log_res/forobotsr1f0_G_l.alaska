@@ -1,0 +1,7 @@
+please input the formula:
+SAT:5
+UC:0
+MUC:
+(false R (((((((((((((((((((((! rob) | (! re)) | (! pr)) | (X l)) & ((((! rob) | (! re)) | pr) | (X re))) & (((! rob) | (! l)) | (X ra))) & (((((! rob) | (! ra)) | ps) | ff) | (X ra))) & ((((! rob) | (! ra)) | (! ps)) | (X h1))) & (((((! rob) | (! ra)) | ps) | (! ff)) | (X mf))) & (((((! rob) | (! mf)) | ps) | (! ff)) | (X (mf | g)))) & (((((! rob) | (! mf)) | ps) | ff) | (X s1))) & ((((! rob) | (! mf)) | (! ps)) | (X h1))) & ((((! rob) | (! s1)) | (! ps)) | (X h1))) & (((((! rob) | (! s1)) | ps) | (! ff)) | (X mf))) & ((((((! rob) | (! s1)) | ps) | pt) | ff) | (X s1))) & ((((((! rob) | (! s1)) | ps) | (! pt)) | ff) | (X ra))) & (((! rob) | (! h1)) | (X (h1 | re)))) & (((! rob) | (! g)) | (X mh))) & (((! rob) | (! mh)) | (X (mh | d)))) & (((! rob) | (! d)) | (X re))) & ((! rob) | (X rob))))
+rob
+The run time is:20ms

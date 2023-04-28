@@ -1,0 +1,11 @@
+please input the formula:
+SAT:10
+UC:0
+MUC:
+(true U (false R (((! a3) | a4) & ((! a4) | a3))))
+(true U (false R (((! a2) | a3) & ((! a3) | a2))))
+(true U (false R (((! a5) | a6) & ((! a6) | a5))))
+(true U (false R (((! a1) | a2) & ((! a2) | a1))))
+(true U (false R (((! a4) | a5) & ((! a5) | a4))))
+(true U (false R (((! a6) | (! a1)) & (a1 | a6))))
+The run time is:0ms

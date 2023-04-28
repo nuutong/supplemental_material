@@ -1,0 +1,12 @@
+please input the formula:
+SAT:8
+UC:4
+UCValid:1
+UCInvalid:2
+UCSatTime:30ms
+MUC:
+(false R ((! hready) | ((hgrant0 & (X ((((! hmaster0) & (! hmaster1)) & (! hmaster2)) & (! hmaster3)))) | ((! hgrant0) & (X (((hmaster0 | hmaster1) | hmaster2) | hmaster3))))))
+(false R (true U hready))
+LengthComp:
+(2,2)
+The run time is:550ms

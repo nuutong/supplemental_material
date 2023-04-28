@@ -1,0 +1,7 @@
+please input the formula:
+SAT:19
+UC:0
+MUC:
+(X (! c))
+(false R c)
+The run time is:80ms

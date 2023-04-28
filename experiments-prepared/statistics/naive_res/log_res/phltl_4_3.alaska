@@ -1,0 +1,7 @@
+please input the formula:
+SAT:9
+UC:0
+MUC:
+(false R ((! p3) | (X (X (X p3)))))
+(false R (true U p3))
+The run time is:10ms

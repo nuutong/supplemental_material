@@ -1,0 +1,21 @@
+please input the formula:
+SAT:57
+UC:0
+MUC:
+(((r1 | p1) | p2) | (! p4))
+(((r1 | (! p3)) | p5) | (! p2))
+(false R ((! r1) | (X r2)))
+(((r1 | p3) | (! p5)) | p4)
+(((r1 | (! p3)) | p2) | p5)
+(false R ((! r3) | (X r4)))
+(((r1 | (! p1)) | (! p2)) | (! p4))
+(((r1 | (! p1)) | (! p5)) | p2)
+(false R ((! r4) | (X r5)))
+(((r1 | p4) | p3) | p5)
+(((r1 | (! p2)) | p1) | p5)
+(false R ((! r5) | (X r1)))
+(((r1 | p3) | p5) | p2)
+(false R ((! r2) | (X r3)))
+(((r1 | (! p5)) | p4) | (! p3))
+(((r1 | (! p5)) | (! p4)) | (! p2))
+The run time is:420ms

@@ -1,0 +1,12 @@
+please input the formula:
+SAT:3
+UC:1
+UCValid:1
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(true U (! c))
+(false R c)
+LengthComp:
+(2,2)
+The run time is:0ms

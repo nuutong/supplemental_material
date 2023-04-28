@@ -1,0 +1,8 @@
+please input the formula:
+SAT:7
+UC:0
+MUC:
+((go & ta) | ((tc U (cc & tc)) R ((true U (go & ta)) | (tc U (cc & tc)))))
+(false R ((! tc) | (! cc)))
+(false R ((! ta) | (! go)))
+The run time is:0ms

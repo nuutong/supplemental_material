@@ -1,0 +1,7 @@
+please input the formula:
+SAT:11
+UC:0
+MUC:
+(! bf1)
+(false R (((((((((! u) | (((((! bf0) | (X bf0)) & ((N (! bf0)) | bf0)) & (((! bf1) | (X bf1)) & ((N (! bf1)) | bf1))) & (((! bf2) | (X bf2)) & ((N (! bf2)) | bf2)))) & (((bf0 | bf1) | bf2) | (X ((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2)))))) & ((((! bf0) | bf1) | bf2) | (X (((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2))) | (((! bf0) & bf1) & (! bf2)))))) & (((bf0 | (! bf1)) | bf2) | (X ((((bf0 & (! bf1)) & (! bf2)) | (((! bf0) & bf1) & (! bf2))) | ((bf0 & bf1) & (! bf2)))))) & ((((! bf0) | (! bf1)) | bf2) | (X (((((! bf0) & bf1) & (! bf2)) | ((bf0 & bf1) & (! bf2))) | (((! bf0) & (! bf1)) & bf2))))) & (((bf0 | bf1) | (! bf2)) | (X ((((bf0 & bf1) & (! bf2)) | (((! bf0) & (! bf1)) & bf2)) | ((bf0 & (! bf1)) & bf2))))) & ((((! bf0) | bf1) | (! bf2)) | (X (((((! bf0) & (! bf1)) & bf2) | ((bf0 & (! bf1)) & bf2)) | (((! bf0) & bf1) & bf2))))) & (((bf0 | (! bf1)) | (! bf2)) | (X (((bf0 & (! bf1)) & bf2) | (((! bf0) & bf1) & bf2))))))
+The run time is:480ms

@@ -1,0 +1,14 @@
+please input the formula:
+SAT:12
+UC:5
+UCValid:2
+UCInvalid:2
+UCSatTime:20ms
+MUC:
+(false R (((! BtoS_ACK7) | (! StoB_REQ7)) | (X BtoS_ACK7)))
+(false R ((StoB_REQ7 | (X (! StoB_REQ7))) | (X (! BtoS_ACK7))))
+(false R (true U ((StoB_REQ7 & BtoS_ACK7) | ((! StoB_REQ7) & (! BtoS_ACK7)))))
+LengthComp:
+(3,3)
+(3,2)
+The run time is:1100ms

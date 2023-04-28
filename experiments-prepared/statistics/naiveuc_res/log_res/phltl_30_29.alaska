@@ -1,0 +1,13 @@
+please input the formula:
+SAT:4
+UC:2
+UCValid:2
+UCInvalid:0
+UCSatTime:50ms
+MUC:
+(false R (true U p17))
+(false R ((! p17) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p17)))))))))))))))))))))))))))))))
+LengthComp:
+(2,2)
+(2,1)
+The run time is:1040ms

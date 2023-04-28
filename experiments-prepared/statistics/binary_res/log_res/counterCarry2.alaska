@@ -1,0 +1,7 @@
+please input the formula:
+SAT:9
+UC:0
+MUC:
+(false R ((! a) | ((X (! a)) & (X (X a)))))
+a
+The run time is:0ms

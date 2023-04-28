@@ -1,0 +1,14 @@
+please input the formula:
+SAT:20
+UC:10
+UCValid:2
+UCInvalid:8
+UCSatTime:10ms
+MUC:
+(false R (((((((! u) | (((((! bf0) | (X bf0)) & ((N (! bf0)) | bf0)) & (((! bf1) | (X bf1)) & ((N (! bf1)) | bf1))) & (((! bf2) | (X bf2)) & ((N (! bf2)) | bf2)))) & (((bf0 | bf1) | bf2) | (X ((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2)))))) & ((((! bf0) | bf1) | bf2) | (X (((((! bf0) & (! bf1)) & (! bf2)) | ((bf0 & (! bf1)) & (! bf2))) | (((! bf0) & bf1) & (! bf2)))))) & (((bf0 | (! bf1)) | bf2) | (X ((((bf0 & (! bf1)) & (! bf2)) | (((! bf0) & bf1) & (! bf2))) | ((bf0 & bf1) & (! bf2)))))) & ((((! bf0) | (! bf1)) | bf2) | (X (((((! bf0) & bf1) & (! bf2)) | ((bf0 & bf1) & (! bf2))) | (((! bf0) & (! bf1)) & bf2))))) & (((bf0 | bf1) | (! bf2)) | (X (((bf0 & bf1) & (! bf2)) | (((! bf0) & (! bf1)) & bf2))))))
+(! bf0)
+(! bf1)
+LengthComp:
+(3,2)
+(3,1)
+The run time is:210ms

@@ -1,0 +1,6 @@
+please input the formula:
+SAT:9
+UC:0
+MUC:
+(false R (((RtoB_ACK0 & (X (! RtoB_ACK0))) | (RtoB_ACK1 & (X (! RtoB_ACK1)))) | (X (! DEQ))))
+The run time is:110ms

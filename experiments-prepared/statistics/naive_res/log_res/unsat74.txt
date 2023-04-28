@@ -1,0 +1,10 @@
+please input the formula:
+SAT:6
+UC:0
+MUC:
+(false R ((((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))) R ((X ((c & d) & (! n))) | (((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))))))
+(false R ((((! c) | (! m)) | (! n)) | d))
+(false R ((! a) | m))
+(false R (h | (! n)))
+(false R (n | (! i)))
+The run time is:0ms

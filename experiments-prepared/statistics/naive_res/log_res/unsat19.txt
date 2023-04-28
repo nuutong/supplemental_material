@@ -1,0 +1,9 @@
+please input the formula:
+SAT:4
+UC:0
+MUC:
+(false R ((! r) | (false R (! s))))
+((p & r) | (r & (false R s)))
+(false R ((! q) | s))
+(false R ((! p) | (true U q)))
+The run time is:0ms
