@@ -1,0 +1,10 @@
+please input the formula:
+SAT:57
+UC:57
+UCValid:0
+UCInvalid:0
+UCSatTime:10ms
+MUC:
+(false R (((X p9) | (X (! p12))) | (X p6)))
+LengthComp:
+The run time is:250ms

@@ -1,0 +1,25 @@
+please input the formula:
+SAT:92
+UC:46
+UCValid:1
+UCInvalid:45
+UCSatTime:340ms
+MUC:
+(false R ((! r1) | (X r2)))
+(((r1 | p2) | p5) | (! p3))
+(((r1 | (! p3)) | (! p4)) | (! p5))
+(false R ((! r5) | (X r1)))
+(false R ((! r2) | (X r3)))
+(((r1 | (! p5)) | p3) | p1)
+(((r1 | (! p3)) | p5) | p4)
+(false R ((! r4) | (X r5)))
+(((r1 | p3) | p5) | p1)
+(((r1 | p3) | (! p1)) | (! p5))
+(((r1 | (! p1)) | p3) | p5)
+(((r1 | p4) | p1) | (! p5))
+(((r1 | p5) | (! p2)) | (! p4))
+(false R ((! r3) | (X r4)))
+(((r1 | (! p1)) | (! p3)) | (! p5))
+LengthComp:
+(15,1)
+The run time is:2360ms

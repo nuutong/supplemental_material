@@ -1,0 +1,6 @@
+please input the formula:
+SAT:63
+UC:0
+MUC:
+(false R (((X (! p6)) | (X p7)) | (X (! p11))))
+The run time is:460ms

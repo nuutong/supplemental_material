@@ -1,0 +1,10 @@
+please input the formula:
+SAT:29
+UC:30
+UCValid:0
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R (((X (! p3)) | (X p4)) | (X (! p1))))
+LengthComp:
+The run time is:40ms

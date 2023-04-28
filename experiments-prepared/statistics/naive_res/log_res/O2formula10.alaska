@@ -1,0 +1,15 @@
+please input the formula:
+SAT:10
+UC:0
+MUC:
+(true U (false R (((! a8) | a9) & ((! a9) | a8))))
+(true U (false R (((! a1) | a2) & ((! a2) | a1))))
+(true U (false R (((! a4) | a5) & ((! a5) | a4))))
+(true U (false R (((! a7) | a8) & ((! a8) | a7))))
+(true U (false R (((! a10) | (! a1)) & (a1 | a10))))
+(true U (false R (((! a3) | a4) & ((! a4) | a3))))
+(true U (false R (((! a6) | a7) & ((! a7) | a6))))
+(true U (false R (((! a2) | a3) & ((! a3) | a2))))
+(true U (false R (((! a9) | a10) & ((! a10) | a9))))
+(true U (false R (((! a5) | a6) & ((! a6) | a5))))
+The run time is:0ms

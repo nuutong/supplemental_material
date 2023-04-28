@@ -1,0 +1,8 @@
+please input the formula:
+SAT:37
+UC:0
+MUC:
+(false R (((((((((((((! b0) | (true U ((((! bf0) & (! bf1)) & (! bf2)) & (! bf3)))) & ((! b1) | (true U (((bf0 & (! bf1)) & (! bf2)) & (! bf3))))) & ((! b2) | (true U ((((! bf0) & bf1) & (! bf2)) & (! bf3))))) & ((! b3) | (true U (((bf0 & bf1) & (! bf2)) & (! bf3))))) & ((! b4) | (true U ((((! bf0) & (! bf1)) & bf2) & (! bf3))))) & ((! b5) | (true U (((bf0 & (! bf1)) & bf2) & (! bf3))))) & ((! b6) | (true U ((((! bf0) & bf1) & bf2) & (! bf3))))) & ((! b7) | (true U (((bf0 & bf1) & bf2) & (! bf3))))) & ((! b8) | (true U ((((! bf0) & (! bf1)) & (! bf2)) & bf3)))) & ((! b9) | (true U (((bf0 & (! bf1)) & (! bf2)) & bf3)))) & ((! b10) | (true U ((((! bf0) & bf1) & (! bf2)) & bf3)))) & ((! b11) | (true U (((bf0 & bf1) & (! bf2)) & bf3)))))
+(false R (true U b1))
+(false R (true U b2))
+The run time is:56480ms

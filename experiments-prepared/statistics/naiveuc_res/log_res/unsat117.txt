@@ -1,0 +1,18 @@
+please input the formula:
+SAT:14
+UC:7
+UCValid:4
+UCInvalid:3
+UCSatTime:10ms
+MUC:
+(false R ((! r_0) | (true U g_0)))
+(false R ((! r_m) | (X (((! g_0) & (! g_1)) U g_m))))
+(false R ((! r_1) | (true U g_1)))
+(X (false R ((X (r_m & (X (g_0 | r_m)))) R ((((g_0 & r_m) | (r_0 & r_1)) | (X (r_m & (X (g_0 | r_m))))) | (false R (r_m & (true U g_0)))))))
+(false R ((! g_0) | (! g_1)))
+LengthComp:
+(5,4)
+(5,3)
+(5,2)
+(5,1)
+The run time is:10ms

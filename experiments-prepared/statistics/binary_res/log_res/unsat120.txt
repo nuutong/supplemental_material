@@ -1,0 +1,13 @@
+please input the formula:
+SAT:16
+UC:0
+MUC:
+(false R ((! r_1) | (true U g_1)))
+(false R ((! g_0) | (! g_1)))
+(false R ((! g_1) | (! g_m)))
+(false R ((! r_m) | (X (((! g_0) & (! g_1)) U g_m))))
+(false R ((! g_0) | (! g_m)))
+(false R (((! r_0) | (N (! r_1))) | (X (X (g_0 & g_1)))))
+(false R ((! r_0) | (true U g_0)))
+((((((((true U (false R r_m)) | (r_m & (X ((g_0 | g_1) R (! g_m))))) | (true U (g_0 & g_1))) | (true U (g_0 & g_m))) | (true U (g_1 & g_m))) | (true U (r_0 & (false R (! g_0))))) | (true U (r_1 & (false R (! g_1))))) | (true U ((r_0 & (X r_1)) & (X (X ((! g_0) | (! g_1)))))))
+The run time is:20ms

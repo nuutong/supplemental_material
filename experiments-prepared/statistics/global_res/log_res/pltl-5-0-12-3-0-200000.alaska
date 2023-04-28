@@ -1,0 +1,6 @@
+2
+please input the formula:
+global
+MUC:
+(false R (((X (! p3)) | (X p1)) | (X p2)))
+The run time is:0ms

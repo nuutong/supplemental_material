@@ -1,0 +1,12 @@
+please input the formula:
+SAT:6
+UC:2
+UCValid:1
+UCInvalid:1
+UCSatTime:0ms
+MUC:
+((h & (false R m)) R ((h & (false R m)) | (X (h & (X p)))))
+(false R ((! m) | (X (! p))))
+LengthComp:
+(2,2)
+The run time is:0ms

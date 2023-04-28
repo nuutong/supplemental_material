@@ -1,0 +1,7 @@
+please input the formula:
+SAT:16
+UC:0
+MUC:
+(false R ((! hready) | ((hgrant0 & (X ((((! hmaster0) & (! hmaster1)) & (! hmaster2)) & (! hmaster3)))) | ((! hgrant0) & (X (((hmaster0 | hmaster1) | hmaster2) | hmaster3))))))
+(false R (true U hready))
+The run time is:510ms

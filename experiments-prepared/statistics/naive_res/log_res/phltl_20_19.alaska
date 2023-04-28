@@ -1,0 +1,7 @@
+please input the formula:
+SAT:41
+UC:0
+MUC:
+(false R (true U p9))
+(false R ((! p9) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p9)))))))))))))))))))))
+The run time is:18180ms

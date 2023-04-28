@@ -1,0 +1,8 @@
+please input the formula:
+SAT:3
+UC:0
+MUC:
+((call & (false R (! open))) | (true U ((! atfloor) & (X open))))
+(false R ((! call) | (true U open)))
+(false R ((N (! open)) | atfloor))
+The run time is:0ms

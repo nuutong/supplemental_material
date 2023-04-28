@@ -1,0 +1,10 @@
+please input the formula:
+SAT:9
+UC:0
+MUC:
+(false R ((! r_0) | (true U g_0)))
+(false R ((! r_1) | (true U g_1)))
+(false R (true U (! r_m)))
+(false R ((! g_0) | (! g_1)))
+(true U (false R ((X (r_m & (X (g_0 | r_m)))) R ((X (r_m & (X (g_0 | r_m)))) | (((r_0 & r_1) | (false R (r_m & (X false)))) R (((g_0 & r_m) | (r_0 & r_1)) | (false R (r_m & (X false)))))))))
+The run time is:10ms

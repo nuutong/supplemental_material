@@ -1,0 +1,1 @@
+[](delivered -> (!send U ack)) && [](send -> (!ack U delivered)) && X ([](!ack && delivered) || <>(ack && !delivered && send))

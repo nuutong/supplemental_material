@@ -1,0 +1,13 @@
+please input the formula:
+SAT:9
+UC:3
+UCValid:0
+UCInvalid:3
+UCSatTime:10ms
+MUC:
+(false R ((! l) | (true U (! l))))
+(false R ((l | (! p)) | m))
+(true U (l & (false R ((((((l | (m & (! p))) | ((! m) & p)) | (((l & m) & p) & (X ((l | (m & (! p))) | ((! m) & p))))) | (((l & (! m)) & (! p)) & (X (((l & m) & p) & (X ((l | (m & (! p))) | ((! m) & p))))))) | (((l & (! m)) & (! p)) & (X (l & ((! m) | p))))) | (((l & m) & p) & (X (((l & (! m)) & (! p)) & (X (l & ((! m) | p))))))))))
+(false R (p | ((! m) & (X l))))
+LengthComp:
+The run time is:10ms

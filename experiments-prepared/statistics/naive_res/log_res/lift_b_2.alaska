@@ -1,0 +1,6 @@
+please input the formula:
+SAT:12
+UC:0
+MUC:
+(false R ((((! u) | (((! bf0) | (X bf0)) & ((N (! bf0)) | bf0))) & (bf0 | (X ((! bf0) | bf0)))) & ((! bf0) | (X ((! bf0) | bf0)))))
+The run time is:40ms

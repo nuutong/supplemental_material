@@ -1,0 +1,13 @@
+please input the formula:
+SAT:13
+UC:6
+UCValid:1
+UCInvalid:1
+UCSatTime:30ms
+MUC:
+(false R (((! a) | (! b)) | ((X (X (X (X (X (X (X (X (X (X (X (X (X (! b)))))))))))))) & (X (((b & (! a)) & (X (X (X (X (X (X (X (X (X (X (X (X (X (! b))))))))))))))) U (a | ((((! a) & (! b)) & (X (X (X (X (X (X (X (X (X (X (X (X (X b)))))))))))))) & (X ((((! a) & ((! b) | (X (X (X (X (X (X (X (X (X (X (X (X (X b))))))))))))))) & (b | (X (X (X (X (X (X (X (X (X (X (X (X (X (! b)))))))))))))))) U a)))))))))
+a
+(false R (((! a) | b) | ((X (X (X (X (X (X (X (X (X (X (X (X (X b))))))))))))) & (X ((((! a) & ((! b) | (X (X (X (X (X (X (X (X (X (X (X (X (X b))))))))))))))) & (b | (X (X (X (X (X (X (X (X (X (X (X (X (X (! b)))))))))))))))) U a)))))
+LengthComp:
+(3,2)
+The run time is:480ms

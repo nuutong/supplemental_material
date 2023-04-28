@@ -1,0 +1,49 @@
+please input the formula:
+SAT:40
+UC:20
+UCValid:20
+UCInvalid:0
+UCSatTime:20ms
+MUC:
+(true U (false R (((! a20) | (! a1)) & (a1 | a20))))
+(true U (false R (((! a14) | a15) & ((! a15) | a14))))
+(true U (false R (((! a17) | a18) & ((! a18) | a17))))
+(true U (false R (((! a3) | a4) & ((! a4) | a3))))
+(true U (false R (((! a6) | a7) & ((! a7) | a6))))
+(true U (false R (((! a9) | a10) & ((! a10) | a9))))
+(true U (false R (((! a12) | a13) & ((! a13) | a12))))
+(true U (false R (((! a15) | a16) & ((! a16) | a15))))
+(true U (false R (((! a18) | a19) & ((! a19) | a18))))
+(true U (false R (((! a8) | a9) & ((! a9) | a8))))
+(true U (false R (((! a1) | a2) & ((! a2) | a1))))
+(true U (false R (((! a19) | a20) & ((! a20) | a19))))
+(true U (false R (((! a4) | a5) & ((! a5) | a4))))
+(true U (false R (((! a11) | a12) & ((! a12) | a11))))
+(true U (false R (((! a7) | a8) & ((! a8) | a7))))
+(true U (false R (((! a10) | a11) & ((! a11) | a10))))
+(true U (false R (((! a13) | a14) & ((! a14) | a13))))
+(true U (false R (((! a2) | a3) & ((! a3) | a2))))
+(true U (false R (((! a16) | a17) & ((! a17) | a16))))
+(true U (false R (((! a5) | a6) & ((! a6) | a5))))
+LengthComp:
+(20,20)
+(20,19)
+(20,18)
+(20,17)
+(20,16)
+(20,15)
+(20,14)
+(20,13)
+(20,12)
+(20,11)
+(20,10)
+(20,9)
+(20,8)
+(20,7)
+(20,6)
+(20,5)
+(20,4)
+(20,3)
+(20,2)
+(20,1)
+The run time is:50ms

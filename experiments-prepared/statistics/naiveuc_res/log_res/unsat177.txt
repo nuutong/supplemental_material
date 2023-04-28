@@ -1,0 +1,14 @@
+please input the formula:
+SAT:6
+UC:4
+UCValid:2
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+((cc & tc) | (true U (go & ta)))
+(false R ((! ta) | (! go)))
+(false R ((! tc) | (! cc)))
+LengthComp:
+(3,2)
+(3,1)
+The run time is:0ms

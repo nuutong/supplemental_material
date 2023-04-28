@@ -1,0 +1,15 @@
+please input the formula:
+SAT:13
+UC:5
+UCValid:0
+UCInvalid:3
+UCSatTime:0ms
+MUC:
+(false R ((! o) | (! c)))
+(true U ((((c & (! d)) & (! f)) & (! o)) & (X (((! c) & (((! d) & (! o)) | (o & ((! d) | f)))) | (c & (f | o))))))
+(false R ((! c) | (c U (d | f))))
+(false R ((! c) | (! f)))
+(false R ((! c) | (c U (d | o))))
+(false R ((! o) | (! f)))
+LengthComp:
+The run time is:30ms

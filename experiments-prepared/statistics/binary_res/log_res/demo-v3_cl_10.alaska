@@ -1,0 +1,7 @@
+please input the formula:
+SAT:13
+UC:0
+MUC:
+(false R (true U req7))
+(false R ((! req7) | (((X grant7) | (X (X grant7))) | (X (X (X grant7))))))
+The run time is:20ms

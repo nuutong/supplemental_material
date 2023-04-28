@@ -1,0 +1,7 @@
+please input the formula:
+SAT:56
+UC:0
+MUC:
+(false R ((BtoS_ACK0 | (X (! BtoS_ACK0))) | (X ENQ)))
+(false R ((! BtoS_ACK0) | (X (! StoB_REQ0))))
+The run time is:5150ms

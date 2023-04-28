@@ -1,0 +1,1293 @@
+formula,MUC,time(ms),binary,binaryuc
+pltl-12-0-6-3-0-200003.alaska,['(false R (((X p5) | (X p7)) | (X (! p4))))'],0,0,0
+pltl-12-0-12-3-0-200007.alaska,['(false R (((X (! p7)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-12-0-58-3-0-200006.alaska,['(false R (((X (! p6)) | (X (! p11))) | (X (! p1))))'],0,20,10
+pltl-5-0-32-3-0-200005.alaska,['(false R (((X (! p3)) | (X p4)) | (X p1)))'],0,0,0
+pltl-12-0-14-3-0-200005.alaska,['(false R (((X (! p11)) | (X (! p12))) | (X (! p3))))'],0,0,0
+pltl-12-0-7-3-0-200005.alaska,['(false R (((X (! p12)) | (X (! p10))) | (X p5)))'],0,0,0
+pltl-5-0-22-3-0-200002.alaska,['(false R (((X (! p1)) | (X p3)) | (X (! p2))))'],0,0,0
+pltl-12-0-47-3-0-200002.alaska,['(false R (((X (! p3)) | (X (! p4))) | (X (! p12))))'],0,10,10
+pltl-12-0-19-3-0-200006.alaska,['(false R (((X (! p4)) | (X p5)) | (X (! p11))))'],0,0,0
+phltl_25_24.alaska,"['(false R (true U p7))', '(false R ((! p7) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p7))))))))))))))))))))))))))']",0,1620,680
+pltl-12-0-40-3-0-200007.alaska,['(false R (((X p11) | (X p7)) | (X p10)))'],0,0,0
+pltl-12-0-53-3-0-200003.alaska,['(false R (((X (! p4)) | (X (! p8))) | (X (! p10))))'],0,20,30
+pltl-5-0-18-3-0-200000.alaska,['(false R (((X (! p5)) | (X (! p3))) | (X p4)))'],0,0,0
+pltl-5-0-11-3-0-200000.alaska,['(false R (((X (! p2)) | (X (! p4))) | (X p3)))'],0,0,0
+pltl-12-0-22-3-0-200009.alaska,['(false R (((X (! p3)) | (X p2)) | (X p7)))'],0,0,0
+pltl-5-0-35-3-0-200005.alaska,['(false R (((X (! p3)) | (X p2)) | (X (! p5))))'],0,0,0
+pltl-5-0-32-3-0-200000.alaska,['(false R (((X (! p4)) | (X p3)) | (X p5)))'],0,0,0
+pltl-5-0-17-3-0-200003.alaska,['(false R (((X p5) | (X p4)) | (X p2)))'],0,0,0
+pltl-5-0-4-3-0-200009.alaska,['(false R (((X p2) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-16-3-0-200002.alaska,['(false R (((X p6) | (X (! p8))) | (X (! p4))))'],0,0,0
+pltl-5-0-15-3-0-200005.alaska,['(false R (((X p5) | (X (! p1))) | (X p2)))'],0,0,0
+pltl-12-0-1-3-0-200008.alaska,['(false R (((X p1) | (X p2)) | (X p10)))'],0,0,0
+pltl-12-0-47-3-0-200008.alaska,['(false R (((X p7) | (X p10)) | (X (! p6))))'],0,10,10
+pltl-5-0-19-3-0-200007.alaska,['(false R (((X p1) | (X p3)) | (X (! p2))))'],0,0,0
+demo-v3_cl_9.alaska,"['(false R (true U req8))', '(false R ((! req8) | (((X grant8) | (X (X grant8))) | (X (X (X grant8))))))']",0,20,0
+pltl-12-0-9-3-0-200005.alaska,['(false R (((X p11) | (X p2)) | (X p1)))'],0,0,0
+pltl-5-0-12-3-0-200001.alaska,['(false R (((X p4) | (X (! p2))) | (X (! p3))))'],0,0,0
+pltl-5-0-22-3-0-200005.alaska,['(false R (((X (! p2)) | (X p3)) | (X p4)))'],0,0,0
+pltl-12-0-22-3-0-200007.alaska,['(false R (((X (! p3)) | (X p8)) | (X (! p10))))'],0,0,0
+pltl-12-0-10-3-0-200004.alaska,['(false R (((X (! p12)) | (X p6)) | (X (! p10))))'],0,0,0
+phltl_9_8.alaska,"['(false R ((! p9) | (X (X (X (X (X (X (X (X p9))))))))))', '(false R (true U p9))']",0,50,30
+unsat210.txt,"['(false R ((! delivered) | ((! send) U ack)))', '((false R ((! ack) & delivered)) | (false R (X ((! ack) & send))))']",0,0,0
+pltl-5-0-3-3-0-200002.alaska,['(false R (((X (! p4)) | (X p2)) | (X p1)))'],0,0,0
+pltl-12-0-39-3-0-200005.alaska,['(false R (((X (! p6)) | (X p10)) | (X (! p9))))'],0,0,10
+pltl-12-0-11-3-0-200005.alaska,['(false R (((X (! p3)) | (X (! p10))) | (X (! p8))))'],0,0,0
+pltl-5-0-10-3-0-200009.alaska,['(false R (((X p2) | (X (! p3))) | (X p4)))'],0,0,0
+pltl-5-0-21-3-0-200005.alaska,['(false R (((X (! p4)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-12-0-2-3-0-200004.alaska,['(false R (((X (! p3)) | (X (! p8))) | (X p12)))'],0,0,0
+pltl-5-0-10-3-0-200003.alaska,['(false R (((X p5) | (X p4)) | (X p2)))'],0,0,0
+pltl-5-0-20-3-0-200001.alaska,['(false R (((X p4) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-12-0-45-3-0-200007.alaska,['(false R (((X (! p8)) | (X p1)) | (X (! p6))))'],0,10,10
+pltl-5-0-40-3-0-200003.alaska,['(false R (((X (! p5)) | (X p3)) | (X (! p4))))'],0,0,0
+pltl-12-0-47-3-0-200007.alaska,['(false R (((X (! p12)) | (X p1)) | (X p7)))'],0,10,20
+pltl-12-0-44-3-0-200001.alaska,['(false R (((X (! p12)) | (X (! p6))) | (X (! p10))))'],0,0,10
+pltl-12-0-5-3-0-200005.alaska,['(false R (((X p2) | (X (! p4))) | (X p3)))'],0,0,0
+pltl-12-0-16-3-0-200007.alaska,['(false R (((X (! p2)) | (X p1)) | (X p12)))'],0,0,0
+pltl-5-0-13-3-0-200004.alaska,['(false R (((X p2) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-26-3-0-200006.alaska,['(false R (((X (! p1)) | (X p3)) | (X p8)))'],0,0,0
+pltl-5-0-4-3-0-200007.alaska,['(false R (((X p1) | (X p3)) | (X p5)))'],0,0,0
+unsat4.txt,"['(false R ((r & (X p)) | (false R (r & (true U q)))))', '(false R ((! q) | s))', '(false R ((! r) | (false R (! s))))']",0,0,0
+pltl-12-0-53-3-0-200004.alaska,['(false R (((X (! p7)) | (X (! p9))) | (X p4)))'],0,20,20
+pltl-5-0-13-3-0-200000.alaska,['(false R (((X (! p4)) | (X (! p3))) | (X (! p1))))'],0,0,0
+pltl-5-0-2-3-0-200002.alaska,['(false R (((X (! p5)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-12-0-4-3-0-200006.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p4))))'],0,0,0
+pltl-5-0-40-3-0-200000.alaska,['(false R (((X (! p1)) | (X p3)) | (X (! p4))))'],0,0,0
+pltl-12-0-33-3-0-200000.alaska,['(false R (((X p4) | (X p5)) | (X p9)))'],0,0,0
+pltl-12-0-37-3-0-200000.alaska,['(false R (((X p1) | (X (! p9))) | (X (! p6))))'],0,0,10
+pltl-12-0-38-3-0-200003.alaska,['(false R (((X (! p4)) | (X (! p9))) | (X p3)))'],0,0,0
+pltl-5-0-32-3-0-200006.alaska,['(false R (((X (! p3)) | (X p5)) | (X p1)))'],0,0,0
+pltl-12-0-14-3-0-200006.alaska,['(false R (((X p11) | (X p5)) | (X (! p6))))'],0,0,0
+pltl-12-0-11-3-0-200009.alaska,['(false R (((X (! p6)) | (X (! p9))) | (X p3)))'],0,0,0
+pltl-5-0-13-3-0-200005.alaska,['(false R (((X p1) | (X p2)) | (X p3)))'],0,0,0
+pltl-5-0-30-3-0-200001.alaska,['(false R (((X p5) | (X (! p2))) | (X p3)))'],0,0,0
+pltl-5-0-35-3-0-200006.alaska,['(false R (((X p5) | (X (! p1))) | (X (! p4))))'],0,0,0
+pltl-5-0-4-3-0-200004.alaska,['(false R (((X p2) | (X p4)) | (X (! p1))))'],0,0,0
+pltl-12-0-5-3-0-200009.alaska,['(false R (((X p8) | (X (! p11))) | (X (! p3))))'],0,0,0
+pltl-5-0-1-3-0-200009.alaska,['(false R (((X p3) | (X (! p4))) | (X (! p1))))'],0,0,0
+pltl-12-0-53-3-0-200002.alaska,['(false R (((X p1) | (X (! p7))) | (X p8)))'],0,10,20
+phltl_19_18.alaska,"['(false R (true U p18))', '(false R ((! p18) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p18))))))))))))))))))))']",0,560,190
+pltl-12-0-42-3-0-200000.alaska,['(false R (((X (! p5)) | (X (! p6))) | (X p3)))'],0,0,10
+pltl-12-0-4-3-0-200003.alaska,['(false R (((X (! p8)) | (X (! p3))) | (X p11)))'],0,0,0
+pltl-12-0-5-3-0-200002.alaska,['(false R (((X p8) | (X (! p2))) | (X p10)))'],0,0,0
+pltl-5-0-17-3-0-200001.alaska,['(false R (((X (! p2)) | (X p3)) | (X (! p5))))'],0,0,0
+pltl-5-0-27-3-0-200003.alaska,['(false R (((X (! p2)) | (X (! p1))) | (X p5)))'],0,0,0
+pltl-5-0-10-3-0-200006.alaska,['(false R (((X (! p5)) | (X (! p3))) | (X p2)))'],0,0,0
+pltl-5-0-23-3-0-200006.alaska,['(false R (((X (! p1)) | (X p2)) | (X p4)))'],0,0,0
+pltl-5-0-35-3-0-200004.alaska,['(false R (((X p4) | (X p3)) | (X p1)))'],0,0,0
+pltl-5-0-5-3-0-200006.alaska,['(false R (((X (! p2)) | (X p1)) | (X (! p3))))'],0,0,0
+pltl-5-0-3-3-0-200003.alaska,['(false R (((X p3) | (X (! p4))) | (X (! p2))))'],0,0,0
+pltl-12-0-42-3-0-200005.alaska,['(false R (((X p3) | (X (! p12))) | (X p11)))'],0,10,0
+pltl-5-0-27-3-0-200002.alaska,['(false R (((X p2) | (X p1)) | (X p5)))'],0,0,0
+pltl-5-0-11-3-0-200004.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-12-0-19-3-0-200008.alaska,['(false R (((X (! p8)) | (X p10)) | (X (! p6))))'],0,0,0
+pltl-5-0-25-3-0-200000.alaska,['(false R (((X (! p3)) | (X p4)) | (X p1)))'],0,0,0
+pltl-12-0-58-3-0-200008.alaska,['(false R (((X (! p4)) | (X (! p3))) | (X p12)))'],0,10,10
+unsat209.txt,"['(false R ((! send) | ((! ack) U delivered)))', '(false R ((X (false R ((! ack) & send))) | (false R ((! delivered) & send))))']",0,0,0
+pltl-12-0-33-3-0-200005.alaska,['(false R (((X (! p6)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-12-0-14-3-0-200009.alaska,['(false R (((X (! p8)) | (X (! p5))) | (X (! p7))))'],0,0,0
+pltl-5-0-12-3-0-200007.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p3))))'],0,0,0
+demo-v3_cl_7.alaska,"['(false R (true U req5))', '(false R ((! req5) | (((X grant5) | (X (X grant5))) | (X (X (X grant5))))))']",0,0,0
+pltl-5-0-10-3-0-200008.alaska,['(false R (((X p4) | (X p1)) | (X (! p5))))'],0,0,0
+pltl-12-0-49-3-0-200007.alaska,['(false R (((X p8) | (X (! p11))) | (X (! p6))))'],0,10,10
+pltl-5-0-23-3-0-200008.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-5-0-15-3-0-200000.alaska,['(false R (((X p2) | (X (! p3))) | (X p4)))'],0,0,0
+pltl-5-0-16-3-0-200005.alaska,['(false R (((X p3) | (X p2)) | (X (! p5))))'],0,0,0
+pltl-5-0-23-3-0-200009.alaska,['(false R (((X p4) | (X (! p5))) | (X p1)))'],0,0,0
+unsat3.txt,"['(false R ((! q) | s))', '(false R ((p & r) | (X (false R (p & (X (! q)))))))', '(false R ((! r) | (false R (! s))))', '(false R ((! p) | (true U q)))']",0,0,10
+pltl-5-0-40-3-0-200002.alaska,['(false R (((X (! p3)) | (X p2)) | (X (! p1))))'],0,0,0
+pltl-12-0-19-3-0-200000.alaska,['(false R (((X p9) | (X p5)) | (X (! p1))))'],0,0,0
+pltl-5-0-20-3-0-200007.alaska,['(false R (((X p4) | (X (! p5))) | (X p3)))'],0,0,0
+pltl-12-0-19-3-0-200007.alaska,['(false R (((X (! p12)) | (X (! p10))) | (X p9)))'],0,0,0
+pltl-12-0-12-3-0-200002.alaska,['(false R (((X (! p5)) | (X p11)) | (X (! p7))))'],0,0,0
+pltl-12-0-5-3-0-200004.alaska,['(false R (((X p12) | (X (! p8))) | (X p6)))'],0,0,0
+pltl-5-0-21-3-0-200008.alaska,['(false R (((X p3) | (X p5)) | (X p4)))'],0,0,0
+pltl-12-0-10-3-0-200001.alaska,['(false R (((X (! p6)) | (X (! p11))) | (X (! p2))))'],0,0,0
+pltl-5-0-1-3-0-200003.alaska,['(false R (((X p4) | (X p3)) | (X (! p1))))'],0,0,0
+pltl-5-0-22-3-0-200000.alaska,['(false R (((X p2) | (X p4)) | (X (! p1))))'],0,0,0
+pltl-12-0-5-3-0-200000.alaska,['(false R (((X (! p3)) | (X (! p9))) | (X (! p4))))'],0,0,0
+pltl-5-0-27-3-0-200000.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-5-0-27-3-0-200008.alaska,['(false R (((X (! p5)) | (X p1)) | (X (! p2))))'],0,0,0
+phltl_12_11.alaska,"['(false R (true U p5))', '(false R ((! p5) | (X (X (X (X (X (X (X (X (X (X (X p5)))))))))))))']",0,100,60
+pltl-5-0-15-3-0-200007.alaska,['(false R (((X p5) | (X p1)) | (X (! p4))))'],0,0,0
+phltl_27_26.alaska,"['(false R (true U p4))', '(false R ((! p4) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p4))))))))))))))))))))))))))))']",0,2530,1310
+pltl-5-0-22-3-0-200003.alaska,['(false R (((X p5) | (X (! p2))) | (X p3)))'],0,0,0
+pltl-12-0-49-3-0-200008.alaska,['(false R (((X (! p1)) | (X p9)) | (X (! p3))))'],0,10,10
+pltl-12-0-11-3-0-200007.alaska,['(false R (((X p7) | (X (! p10))) | (X p4)))'],0,0,0
+pltl-12-0-9-3-0-200003.alaska,['(false R (((X (! p11)) | (X p3)) | (X p12)))'],0,0,0
+unsat106.txt,['((false R (X (h & (X (! p))))) | (false R (true U (m & (X p)))))'],0,0,0
+pltl-5-0-32-3-0-200002.alaska,['(false R (((X p1) | (X p2)) | (X p3)))'],0,0,0
+pltl-5-0-2-3-0-200003.alaska,['(false R (((X (! p5)) | (X p1)) | (X p3)))'],0,0,0
+pltl-5-0-17-3-0-200008.alaska,['(false R (((X p5) | (X p3)) | (X p2)))'],0,0,0
+phltl_3_2.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X (X p1))))']",0,10,0
+pltl-5-0-35-3-0-200009.alaska,['(false R (((X p4) | (X p1)) | (X (! p2))))'],0,0,0
+pltl-5-0-11-3-0-200001.alaska,['(false R (((X (! p2)) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-5-0-5-3-0-200008.alaska,['(false R (((X p1) | (X (! p4))) | (X (! p2))))'],0,0,0
+pltl-5-0-5-3-0-200005.alaska,['(false R (((X (! p4)) | (X p2)) | (X (! p5))))'],0,0,0
+pltl-12-0-44-3-0-200002.alaska,['(false R (((X p12) | (X p4)) | (X p3)))'],0,10,10
+pltl-12-0-40-3-0-200002.alaska,['(false R (((X p8) | (X (! p10))) | (X (! p12))))'],0,0,10
+pltl-12-0-14-3-0-200000.alaska,['(false R (((X p2) | (X p10)) | (X (! p9))))'],0,0,0
+pltl-5-0-23-3-0-200003.alaska,['(false R (((X (! p2)) | (X (! p4))) | (X (! p3))))'],0,0,0
+pltl-5-0-40-3-0-200005.alaska,['(false R (((X p5) | (X (! p3))) | (X p1)))'],0,0,10
+pltl-12-0-40-3-0-200005.alaska,['(false R (((X p9) | (X p11)) | (X (! p6))))'],0,10,10
+pltl-5-0-32-3-0-200007.alaska,['(false R (((X (! p4)) | (X (! p1))) | (X p3)))'],0,0,0
+pltl-12-0-47-3-0-200000.alaska,['(false R (((X (! p3)) | (X p4)) | (X (! p6))))'],0,10,10
+pltl-12-0-49-3-0-200005.alaska,['(false R (((X p10) | (X (! p1))) | (X (! p12))))'],0,10,10
+pltl-5-0-22-3-0-200006.alaska,['(false R (((X p3) | (X p2)) | (X (! p4))))'],0,0,0
+pltl-12-0-24-3-0-200002.alaska,['(false R (((X p11) | (X (! p1))) | (X p7)))'],0,0,0
+pltl-12-0-58-3-0-200009.alaska,['(false R (((X (! p4)) | (X (! p6))) | (X (! p12))))'],0,20,10
+pltl-5-0-32-3-0-200004.alaska,['(false R (((X (! p4)) | (X (! p2))) | (X p3)))'],0,0,0
+pltl-12-0-10-3-0-200005.alaska,['(false R (((X p12) | (X p7)) | (X p10)))'],0,0,0
+pltl-12-0-25-3-0-200009.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p10))))'],0,0,0
+pltl-12-0-6-3-0-200006.alaska,['(false R (((X (! p12)) | (X p3)) | (X p11)))'],0,0,0
+pltl-12-0-58-3-0-200000.alaska,['(false R (((X p9) | (X (! p8))) | (X (! p2))))'],0,20,20
+pltl-5-0-19-3-0-200003.alaska,['(false R (((X p1) | (X p2)) | (X p5)))'],0,0,0
+pltl-12-0-45-3-0-200002.alaska,['(false R (((X p5) | (X (! p12))) | (X (! p2))))'],0,10,10
+pltl-5-0-20-3-0-200006.alaska,['(false R (((X (! p5)) | (X p2)) | (X (! p4))))'],0,0,0
+pltl-5-0-25-3-0-200004.alaska,['(false R (((X (! p4)) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-5-0-25-3-0-200009.alaska,['(false R (((X p4) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-12-0-24-3-0-200008.alaska,['(false R (((X (! p5)) | (X p6)) | (X p12)))'],0,0,0
+pltl-12-0-38-3-0-200008.alaska,['(false R (((X (! p11)) | (X p1)) | (X (! p10))))'],0,0,10
+pltl-5-0-11-3-0-200005.alaska,['(false R (((X p5) | (X (! p4))) | (X p3)))'],0,0,0
+pltl-5-0-30-3-0-200007.alaska,['(false R (((X (! p3)) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-12-0-16-3-0-200003.alaska,['(false R (((X (! p4)) | (X (! p7))) | (X (! p3))))'],0,0,0
+pltl-5-0-23-3-0-200002.alaska,['(false R (((X (! p5)) | (X p2)) | (X (! p3))))'],0,0,0
+pltl-5-0-30-3-0-200003.alaska,['(false R (((X p1) | (X p4)) | (X p5)))'],0,0,0
+phltl_24_23.alaska,"['(false R (true U p8))', '(false R ((! p8) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p8)))))))))))))))))))))))))']",0,1390,560
+pltl-5-0-27-3-0-200007.alaska,['(false R (((X (! p1)) | (X (! p5))) | (X p2)))'],0,0,0
+pltl-12-0-58-3-0-200007.alaska,['(false R (((X (! p7)) | (X p12)) | (X p3)))'],0,10,20
+pltl-12-0-22-3-0-200005.alaska,['(false R (((X (! p10)) | (X p11)) | (X p1)))'],0,0,0
+pltl-12-0-33-3-0-200006.alaska,['(false R (((X p12) | (X p3)) | (X (! p7))))'],0,0,0
+pltl-12-0-2-3-0-200002.alaska,['(false R (((X (! p3)) | (X (! p12))) | (X p1)))'],0,0,0
+pltl-12-0-12-3-0-200005.alaska,['(false R (((X (! p4)) | (X p3)) | (X p6)))'],0,0,0
+pltl-12-0-49-3-0-200009.alaska,['(false R (((X p5) | (X p2)) | (X p8)))'],0,0,10
+phltl_6_5.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X (X (X (X (X p1)))))))']",0,10,10
+pltl-5-0-15-3-0-200008.alaska,['(false R (((X p5) | (X (! p1))) | (X (! p2))))'],0,0,0
+pltl-5-0-19-3-0-200002.alaska,['(false R (((X p3) | (X (! p2))) | (X p5)))'],0,0,0
+pltl-12-0-1-3-0-200007.alaska,['(false R (((X p5) | (X p3)) | (X (! p6))))'],0,0,0
+phltl_29_28.alaska,"['(false R (true U p3))', '(false R ((! p3) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p3))))))))))))))))))))))))))))))']",0,3710,1760
+pltl-12-0-13-3-0-200003.alaska,['(false R (((X p6) | (X p12)) | (X p11)))'],0,0,0
+pltl-5-0-11-3-0-200009.alaska,['(false R (((X p5) | (X (! p3))) | (X (! p2))))'],0,0,0
+pltl-12-0-24-3-0-200003.alaska,['(false R (((X p11) | (X (! p2))) | (X (! p6))))'],0,0,0
+pltl-12-0-53-3-0-200009.alaska,['(false R (((X (! p9)) | (X p2)) | (X p5)))'],0,20,20
+pltl-5-0-13-3-0-200003.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-12-0-12-3-0-200009.alaska,['(false R (((X (! p10)) | (X p8)) | (X p4)))'],0,0,0
+pltl-12-0-39-3-0-200008.alaska,['(false R (((X p6) | (X p3)) | (X p12)))'],0,0,0
+pltl-12-0-33-3-0-200009.alaska,['(false R (((X p2) | (X (! p1))) | (X p4)))'],0,0,10
+pltl-12-0-42-3-0-200009.alaska,['(false R (((X p3) | (X (! p2))) | (X p12)))'],0,0,10
+pltl-12-0-22-3-0-200000.alaska,['(false R (((X p10) | (X p1)) | (X p5)))'],0,0,0
+phltl_8_7.alaska,"['(false R (true U p4))', '(false R ((! p4) | (X (X (X (X (X (X (X p4)))))))))']",0,40,30
+pltl-12-0-38-3-0-200002.alaska,['(false R (((X p5) | (X p12)) | (X (! p4))))'],0,10,10
+pltl-12-0-39-3-0-200002.alaska,['(false R (((X (! p8)) | (X p2)) | (X (! p7))))'],0,10,0
+pltl-12-0-6-3-0-200008.alaska,['(false R (((X p7) | (X (! p3))) | (X (! p4))))'],0,0,0
+pltl-5-0-15-3-0-200002.alaska,['(false R (((X p4) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-5-0-17-3-0-200004.alaska,['(false R (((X (! p5)) | (X p2)) | (X p1)))'],0,0,0
+pltl-12-0-10-3-0-200008.alaska,['(false R (((X (! p6)) | (X (! p1))) | (X (! p12))))'],0,0,0
+pltl-12-0-12-3-0-200001.alaska,['(false R (((X p6) | (X (! p10))) | (X (! p7))))'],0,0,0
+pltl-5-0-1-3-0-200000.alaska,['(false R (((X (! p4)) | (X p2)) | (X p1)))'],0,0,0
+pltl-12-0-37-3-0-200002.alaska,['(false R (((X p1) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-5-0-2-3-0-200008.alaska,['(false R (((X (! p2)) | (X p1)) | (X (! p5))))'],0,0,0
+pltl-5-0-11-3-0-200006.alaska,['(false R (((X p1) | (X p3)) | (X p4)))'],0,0,0
+pltl-12-0-30-3-0-200006.alaska,['(false R (((X (! p3)) | (X p2)) | (X p9)))'],0,0,0
+pltl-5-0-40-3-0-200009.alaska,['(false R (((X (! p1)) | (X (! p3))) | (X (! p2))))'],0,0,10
+pltl-5-0-13-3-0-200006.alaska,['(false R (((X (! p3)) | (X p4)) | (X p1)))'],0,0,0
+pltl-12-0-37-3-0-200007.alaska,['(false R (((X (! p11)) | (X (! p6))) | (X (! p4))))'],0,0,10
+pltl-12-0-6-3-0-200004.alaska,['(false R (((X (! p8)) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-42-3-0-200008.alaska,['(false R (((X (! p11)) | (X (! p6))) | (X (! p5))))'],0,10,10
+pltl-12-0-10-3-0-200007.alaska,['(false R (((X (! p2)) | (X (! p8))) | (X p11)))'],0,0,0
+pltl-12-0-11-3-0-200002.alaska,['(false R (((X (! p3)) | (X p2)) | (X p7)))'],0,0,0
+pltl-5-0-5-3-0-200009.alaska,['(false R (((X p4) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-12-0-30-3-0-200003.alaska,['(false R (((X (! p10)) | (X p9)) | (X (! p8))))'],0,0,0
+pltl-12-0-2-3-0-200001.alaska,['(false R (((X (! p12)) | (X p1)) | (X p7)))'],0,0,0
+pltl-5-0-4-3-0-200000.alaska,['(false R (((X p1) | (X p4)) | (X (! p3))))'],0,0,0
+pltl-5-0-27-3-0-200009.alaska,['(false R (((X p1) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-12-0-30-3-0-200001.alaska,['(false R (((X (! p4)) | (X p5)) | (X (! p11))))'],0,0,0
+pltl-5-0-21-3-0-200003.alaska,['(false R (((X p3) | (X p2)) | (X (! p1))))'],0,0,0
+pltl-5-0-12-3-0-200008.alaska,['(false R (((X p2) | (X (! p4))) | (X (! p1))))'],0,0,0
+pltl-12-0-11-3-0-200003.alaska,['(false R (((X (! p11)) | (X (! p8))) | (X (! p1))))'],0,0,0
+pltl-5-0-1-3-0-200004.alaska,['(false R (((X p3) | (X p5)) | (X p1)))'],0,0,0
+pltl-5-0-4-3-0-200002.alaska,['(false R (((X p1) | (X p2)) | (X p4)))'],0,0,0
+pltl-12-0-33-3-0-200008.alaska,['(false R (((X p5) | (X p12)) | (X p6)))'],0,0,0
+pltl-5-0-25-3-0-200002.alaska,['(false R (((X (! p2)) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-5-0-19-3-0-200000.alaska,['(false R (((X (! p2)) | (X (! p3))) | (X p5)))'],0,0,0
+pltl-12-0-37-3-0-200006.alaska,['(false R (((X (! p11)) | (X p3)) | (X (! p7))))'],0,0,10
+pltl-5-0-12-3-0-200002.alaska,['(false R (((X p1) | (X (! p4))) | (X (! p5))))'],0,0,0
+pltl-5-0-25-3-0-200001.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p2))))'],0,0,0
+demo-v3_cl_4.alaska,"['(false R (true U req4))', '(false R ((! req4) | (((X grant4) | (X (X grant4))) | (X (X (X grant4))))))']",0,10,0
+pltl-12-0-42-3-0-200004.alaska,['(false R (((X (! p8)) | (X (! p1))) | (X p2)))'],0,10,10
+pltl-12-0-11-3-0-200008.alaska,['(false R (((X p2) | (X (! p11))) | (X p12)))'],0,0,0
+pltl-5-0-12-3-0-200006.alaska,['(false R (((X (! p1)) | (X (! p4))) | (X (! p5))))'],0,0,0
+pltl-5-0-1-3-0-200007.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-5-0-5-3-0-200000.alaska,['(false R (((X p5) | (X (! p3))) | (X (! p1))))'],0,0,0
+phltl_2_1.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X p1)))']",0,10,0
+pltl-5-0-18-3-0-200003.alaska,['(false R (((X (! p1)) | (X (! p2))) | (X (! p4))))'],0,0,0
+pltl-12-0-53-3-0-200001.alaska,['(false R (((X p7) | (X (! p4))) | (X p6)))'],0,10,20
+pltl-5-0-16-3-0-200002.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X (! p4))))'],0,0,0
+pltl-12-0-33-3-0-200001.alaska,['(false R (((X p12) | (X (! p8))) | (X p6)))'],0,0,0
+pltl-12-0-47-3-0-200004.alaska,['(false R (((X (! p6)) | (X (! p9))) | (X p10)))'],0,10,10
+phltl_13_12.alaska,"['(false R (true U p13))', '(false R ((! p13) | (X (X (X (X (X (X (X (X (X (X (X (X p13))))))))))))))']",0,70,60
+pltl-12-0-30-3-0-200007.alaska,['(false R (((X (! p7)) | (X (! p10))) | (X p6)))'],0,0,0
+pltl-5-0-2-3-0-200007.alaska,['(false R (((X (! p3)) | (X (! p4))) | (X p2)))'],0,0,0
+pltl-12-0-7-3-0-200004.alaska,['(false R (((X p2) | (X p5)) | (X p8)))'],0,0,0
+pltl-12-0-53-3-0-200005.alaska,['(false R (((X p6) | (X (! p2))) | (X p11)))'],0,20,20
+pltl-12-0-45-3-0-200004.alaska,['(false R (((X p5) | (X p2)) | (X (! p7))))'],0,10,10
+pltl-5-0-30-3-0-200000.alaska,['(false R (((X p5) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-5-0-10-3-0-200001.alaska,['(false R (((X (! p2)) | (X p1)) | (X p4)))'],0,0,0
+phltl_23_22.alaska,"['(false R (true U p3))', '(false R ((! p3) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p3))))))))))))))))))))))))']",0,890,510
+pltl-12-0-22-3-0-200002.alaska,['(false R (((X p7) | (X p9)) | (X (! p10))))'],0,0,0
+phltl_4_3.alaska,"['(false R (true U p4))', '(false R ((! p4) | (X (X (X p4)))))']",0,10,0
+pltl-12-0-44-3-0-200007.alaska,['(false R (((X p5) | (X (! p1))) | (X (! p9))))'],0,10,10
+pltl-5-0-19-3-0-200009.alaska,['(false R (((X p3) | (X p5)) | (X p4)))'],0,0,0
+pltl-12-0-45-3-0-200009.alaska,['(false R (((X (! p7)) | (X (! p1))) | (X p2)))'],0,10,10
+pltl-12-0-13-3-0-200009.alaska,['(false R (((X p1) | (X (! p7))) | (X p4)))'],0,0,0
+pltl-12-0-11-3-0-200001.alaska,['(false R (((X (! p12)) | (X p8)) | (X (! p6))))'],0,0,0
+pltl-5-0-25-3-0-200008.alaska,['(false R (((X p2) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-4-3-0-200009.alaska,['(false R (((X p8) | (X p9)) | (X (! p12))))'],0,0,0
+pltl-5-0-30-3-0-200002.alaska,['(false R (((X p2) | (X (! p1))) | (X p3)))'],0,0,0
+pltl-5-0-25-3-0-200006.alaska,['(false R (((X p4) | (X (! p5))) | (X p2)))'],0,0,0
+pltl-12-0-24-3-0-200000.alaska,['(false R (((X (! p1)) | (X (! p7))) | (X (! p10))))'],0,0,0
+pltl-5-0-30-3-0-200004.alaska,['(false R (((X (! p4)) | (X (! p1))) | (X (! p3))))'],0,0,0
+pltl-5-0-40-3-0-200006.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p4))))'],0,0,0
+pltl-12-0-7-3-0-200002.alaska,['(false R (((X (! p9)) | (X p3)) | (X (! p10))))'],0,0,0
+pltl-5-0-13-3-0-200009.alaska,['(false R (((X (! p5)) | (X (! p1))) | (X (! p4))))'],0,0,0
+pltl-12-0-26-3-0-200001.alaska,['(false R (((X p10) | (X (! p9))) | (X (! p1))))'],0,0,0
+pltl-12-0-45-3-0-200000.alaska,['(false R (((X p9) | (X p1)) | (X p10)))'],0,10,0
+pltl-5-0-23-3-0-200005.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-5-0-15-3-0-200006.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X p5)))'],0,0,0
+pltl-12-0-16-3-0-200006.alaska,['(false R (((X p12) | (X p3)) | (X (! p5))))'],0,0,0
+pltl-12-0-38-3-0-200004.alaska,['(false R (((X (! p3)) | (X p6)) | (X p2)))'],0,0,10
+pltl-5-0-2-3-0-200004.alaska,['(false R (((X p2) | (X p3)) | (X p5)))'],0,0,0
+pltl-12-0-6-3-0-200007.alaska,['(false R (((X p4) | (X p1)) | (X p8)))'],0,0,0
+pltl-12-0-11-3-0-200004.alaska,['(false R (((X (! p12)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-5-0-4-3-0-200003.alaska,['(false R (((X p3) | (X p1)) | (X (! p5))))'],0,0,0
+pltl-5-0-13-3-0-200008.alaska,['(false R (((X (! p2)) | (X (! p4))) | (X (! p5))))'],0,0,0
+pltl-12-0-19-3-0-200005.alaska,['(false R (((X (! p4)) | (X (! p2))) | (X (! p12))))'],0,0,0
+pltl-5-0-23-3-0-200000.alaska,['(false R (((X (! p3)) | (X p4)) | (X p5)))'],0,0,0
+pltl-12-0-39-3-0-200007.alaska,['(false R (((X (! p4)) | (X (! p9))) | (X (! p1))))'],0,0,10
+pltl-12-0-30-3-0-200004.alaska,['(false R (((X p9) | (X (! p2))) | (X p7)))'],0,0,0
+pltl-12-0-26-3-0-200005.alaska,['(false R (((X (! p7)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-5-0-3-3-0-200001.alaska,['(false R (((X p5) | (X (! p2))) | (X (! p4))))'],0,0,0
+unsat16.txt,"['(false R ((! p) | (true U q)))', '(false R ((! q) | s))', '(false R ((! r) | (false R (! s))))', '(false R (true U (r & (false R p))))']",0,0,10
+pltl-12-0-39-3-0-200009.alaska,['(false R (((X p4) | (X (! p11))) | (X (! p2))))'],0,0,0
+pltl-5-0-2-3-0-200000.alaska,['(false R (((X (! p1)) | (X p2)) | (X p5)))'],0,0,0
+pltl-5-0-10-3-0-200007.alaska,['(false R (((X (! p4)) | (X p1)) | (X p2)))'],0,0,0
+pltl-5-0-18-3-0-200005.alaska,['(false R (((X p4) | (X p1)) | (X p2)))'],0,0,0
+pltl-12-0-4-3-0-200004.alaska,['(false R (((X p4) | (X p11)) | (X p7)))'],0,0,0
+pltl-12-0-42-3-0-200001.alaska,['(false R (((X p10) | (X (! p12))) | (X (! p8))))'],0,10,10
+pltl-5-0-21-3-0-200006.alaska,['(false R (((X p5) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-12-0-39-3-0-200006.alaska,['(false R (((X (! p8)) | (X (! p5))) | (X (! p11))))'],0,10,0
+pltl-12-0-30-3-0-200005.alaska,['(false R (((X p11) | (X p5)) | (X (! p8))))'],0,0,0
+unsat211.txt,"['(false R ((! send) | ((! ack) U delivered)))', '(false R ((! ack) & ((! ack) U send)))', '(false R ((! delivered) | ((! send) U ack)))']",0,0,0
+pltl-5-0-21-3-0-200001.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-12-0-1-3-0-200002.alaska,['(false R (((X p2) | (X (! p1))) | (X (! p3))))'],0,0,0
+pltl-12-0-47-3-0-200006.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p12))))'],0,10,10
+phltl_15_14.alaska,"['(false R (true U p14))', '(false R ((! p14) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X p14))))))))))))))))']",0,240,80
+demo-v3_cl_8.alaska,"['(false R (true U req2))', '(false R ((! req2) | (((X grant2) | (X (X grant2))) | (X (X (X grant2))))))']",0,0,0
+pltl-12-0-40-3-0-200006.alaska,['(false R (((X p4) | (X (! p8))) | (X (! p5))))'],0,10,10
+pltl-5-0-13-3-0-200001.alaska,['(false R (((X p4) | (X (! p1))) | (X (! p3))))'],0,0,0
+pltl-12-0-1-3-0-200004.alaska,['(false R (((X (! p8)) | (X (! p11))) | (X (! p3))))'],0,0,0
+pltl-12-0-25-3-0-200007.alaska,['(false R (((X (! p1)) | (X p4)) | (X p9)))'],0,0,0
+pltl-12-0-24-3-0-200004.alaska,['(false R (((X (! p11)) | (X (! p6))) | (X p4)))'],0,0,0
+pltl-5-0-1-3-0-200002.alaska,['(false R (((X p1) | (X p3)) | (X p2)))'],0,0,0
+pltl-12-0-37-3-0-200003.alaska,['(false R (((X p1) | (X (! p11))) | (X (! p4))))'],0,0,0
+pltl-5-0-5-3-0-200004.alaska,['(false R (((X p5) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-5-0-21-3-0-200000.alaska,['(false R (((X (! p1)) | (X (! p4))) | (X p2)))'],0,0,0
+pltl-5-0-22-3-0-200008.alaska,['(false R (((X (! p1)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-12-0-5-3-0-200008.alaska,['(false R (((X (! p4)) | (X p11)) | (X p5)))'],0,0,0
+pltl-5-0-32-3-0-200001.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p3))))'],0,0,0
+pltl-12-0-19-3-0-200002.alaska,['(false R (((X (! p7)) | (X (! p1))) | (X (! p6))))'],0,0,0
+pltl-5-0-25-3-0-200007.alaska,['(false R (((X (! p5)) | (X p2)) | (X (! p3))))'],0,0,0
+pltl-12-0-2-3-0-200008.alaska,['(false R (((X (! p8)) | (X p9)) | (X (! p10))))'],0,0,0
+pltl-12-0-16-3-0-200004.alaska,['(false R (((X p1) | (X p9)) | (X p8)))'],0,0,0
+pltl-5-0-32-3-0-200009.alaska,['(false R (((X (! p5)) | (X (! p4))) | (X (! p2))))'],0,0,0
+pltl-5-0-40-3-0-200001.alaska,['(false R (((X (! p3)) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-5-0-22-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p2))) | (X (! p4))))'],0,0,0
+unsat202.txt,"['(false R (send & (((! ack) | (! delivered)) | (! send))))', '(false R ((! send) | ((! ack) U delivered)))', '(false R ((! delivered) | ((! send) U ack)))']",0,0,0
+demo-v3_cl_12.alaska,"['(false R (true U req8))', '(false R ((! req8) | (((X grant8) | (X (X grant8))) | (X (X (X grant8))))))']",0,30,0
+pltl-12-0-26-3-0-200000.alaska,['(false R (((X p12) | (X (! p7))) | (X p5)))'],0,0,0
+pltl-12-0-44-3-0-200005.alaska,['(false R (((X (! p11)) | (X p1)) | (X (! p10))))'],0,10,10
+pltl-12-0-1-3-0-200005.alaska,['(false R (((X (! p5)) | (X (! p8))) | (X p7)))'],0,0,0
+pltl-5-0-17-3-0-200009.alaska,['(false R (((X (! p3)) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-12-0-45-3-0-200001.alaska,['(false R (((X p5) | (X p2)) | (X p9)))'],0,0,10
+pltl-5-0-21-3-0-200004.alaska,['(false R (((X (! p3)) | (X p1)) | (X (! p5))))'],0,0,0
+pltl-12-0-57-3-0-200009.alaska,['(false R (((X p3) | (X p12)) | (X p11)))'],0,10,20
+demo-v3_cl_6.alaska,"['(false R (true U req5))', '(false R ((! req5) | (((X grant5) | (X (X grant5))) | (X (X (X grant5))))))']",0,10,0
+phltl_16_15.alaska,"['(false R (true U p2))', '(false R ((! p2) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p2)))))))))))))))))']",0,170,110
+pltl-12-0-9-3-0-200007.alaska,['(false R (((X p11) | (X p4)) | (X (! p10))))'],0,0,0
+pltl-12-0-14-3-0-200007.alaska,['(false R (((X (! p8)) | (X (! p2))) | (X p5)))'],0,0,0
+pltl-5-0-30-3-0-200005.alaska,['(false R (((X (! p4)) | (X p2)) | (X (! p1))))'],0,0,0
+demo-v3_cl_10.alaska,"['(false R (true U req2))', '(false R ((! req2) | (((X grant2) | (X (X grant2))) | (X (X (X grant2))))))']",0,20,0
+pltl-12-0-37-3-0-200004.alaska,['(false R (((X p12) | (X (! p9))) | (X (! p5))))'],0,10,0
+pltl-12-0-24-3-0-200006.alaska,['(false R (((X p2) | (X p4)) | (X p5)))'],0,0,0
+pltl-5-0-40-3-0-200004.alaska,['(false R (((X p3) | (X p2)) | (X p5)))'],0,0,10
+pltl-12-0-59-3-0-200006.alaska,['(false R (((X p12) | (X p11)) | (X p9)))'],0,20,20
+pltl-5-0-3-3-0-200000.alaska,['(false R (((X p2) | (X p5)) | (X (! p4))))'],0,0,0
+demo-v3_cl_3.alaska,"['(false R (true U req3))', '(false R ((! req3) | (((X grant3) | (X (X grant3))) | (X (X (X grant3))))))']",0,0,0
+pltl-12-0-11-3-0-200006.alaska,['(false R (((X p4) | (X p3)) | (X p6)))'],0,0,0
+phltl_20_19.alaska,"['(false R (true U p14))', '(false R ((! p14) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p14)))))))))))))))))))))']",0,430,240
+pltl-5-0-20-3-0-200009.alaska,['(false R (((X p2) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-5-0-5-3-0-200002.alaska,['(false R (((X p4) | (X p5)) | (X (! p3))))'],0,0,0
+pltl-12-0-13-3-0-200007.alaska,['(false R (((X (! p5)) | (X p7)) | (X (! p10))))'],0,0,0
+pltl-12-0-6-3-0-200000.alaska,['(false R (((X p3) | (X (! p11))) | (X (! p6))))'],0,0,0
+pltl-12-0-7-3-0-200008.alaska,['(false R (((X (! p3)) | (X p12)) | (X (! p2))))'],0,0,0
+pltl-12-0-49-3-0-200003.alaska,['(false R (((X p9) | (X p6)) | (X p10)))'],0,10,20
+pltl-12-0-5-3-0-200001.alaska,['(false R (((X (! p6)) | (X (! p4))) | (X (! p1))))'],0,0,0
+pltl-12-0-22-3-0-200006.alaska,['(false R (((X (! p7)) | (X (! p8))) | (X (! p4))))'],0,0,0
+pltl-12-0-42-3-0-200007.alaska,['(false R (((X (! p2)) | (X p9)) | (X (! p1))))'],0,10,10
+pltl-5-0-1-3-0-200005.alaska,['(false R (((X p4) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-12-0-6-3-0-200002.alaska,['(false R (((X (! p1)) | (X (! p11))) | (X (! p10))))'],0,0,0
+pltl-5-0-40-3-0-200008.alaska,['(false R (((X (! p3)) | (X p2)) | (X p5)))'],0,0,0
+pltl-5-0-23-3-0-200001.alaska,['(false R (((X p5) | (X p4)) | (X p2)))'],0,0,0
+pltl-12-0-25-3-0-200008.alaska,['(false R (((X p3) | (X (! p6))) | (X (! p7))))'],0,0,0
+pltl-12-0-9-3-0-200000.alaska,['(false R (((X p6) | (X (! p3))) | (X (! p5))))'],0,0,0
+unsat108.txt,"['(false R ((! h) | (X p)))', '(false R ((false R h) | (false R (m & (true U h)))))']",0,0,0
+pltl-5-0-30-3-0-200009.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-12-0-44-3-0-200008.alaska,['(false R (((X (! p5)) | (X p3)) | (X (! p8))))'],0,10,10
+pltl-5-0-23-3-0-200004.alaska,['(false R (((X p4) | (X p5)) | (X p2)))'],0,0,0
+pltl-5-0-12-3-0-200005.alaska,['(false R (((X (! p5)) | (X (! p1))) | (X p3)))'],0,0,0
+pltl-5-0-20-3-0-200000.alaska,['(false R (((X p3) | (X p1)) | (X (! p4))))'],0,0,0
+pltl-12-0-24-3-0-200005.alaska,['(false R (((X (! p4)) | (X (! p7))) | (X p8)))'],0,0,0
+pltl-5-0-12-3-0-200003.alaska,['(false R (((X (! p3)) | (X p4)) | (X (! p2))))'],0,0,0
+pltl-12-0-13-3-0-200002.alaska,['(false R (((X (! p1)) | (X p8)) | (X (! p7))))'],0,0,0
+phltl_21_20.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p1))))))))))))))))))))))']",0,640,270
+pltl-12-0-42-3-0-200002.alaska,['(false R (((X (! p3)) | (X p4)) | (X (! p9))))'],0,0,0
+unsat35.txt,['(false R (X ((! l) U ((! l) & (! m)))))'],0,0,0
+pltl-12-0-10-3-0-200003.alaska,['(false R (((X p6) | (X p7)) | (X p5)))'],0,0,0
+phltl_5_4.alaska,"['(false R (true U p4))', '(false R ((! p4) | (X (X (X (X p4))))))']",0,10,0
+pltl-5-0-16-3-0-200003.alaska,['(false R (((X (! p5)) | (X (! p3))) | (X p2)))'],0,0,0
+pltl-12-0-16-3-0-200005.alaska,['(false R (((X p11) | (X (! p4))) | (X p8)))'],0,0,0
+pltl-12-0-22-3-0-200008.alaska,['(false R (((X (! p11)) | (X p5)) | (X (! p4))))'],0,0,0
+pltl-12-0-5-3-0-200007.alaska,['(false R (((X p4) | (X (! p3))) | (X p5)))'],0,0,0
+pltl-12-0-33-3-0-200003.alaska,['(false R (((X p5) | (X p11)) | (X p9)))'],0,0,0
+pltl-5-0-16-3-0-200008.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-12-0-26-3-0-200004.alaska,['(false R (((X (! p12)) | (X p2)) | (X p4)))'],0,0,0
+pltl-5-0-16-3-0-200004.alaska,['(false R (((X (! p3)) | (X p5)) | (X p2)))'],0,0,0
+pltl-5-0-23-3-0-200007.alaska,['(false R (((X p5) | (X p3)) | (X (! p1))))'],0,0,0
+pltl-12-0-2-3-0-200006.alaska,['(false R (((X (! p3)) | (X p5)) | (X p12)))'],0,0,0
+pltl-12-0-13-3-0-200004.alaska,['(false R (((X p5) | (X (! p7))) | (X (! p1))))'],0,0,0
+pltl-12-0-33-3-0-200002.alaska,['(false R (((X (! p12)) | (X p6)) | (X p8)))'],0,10,0
+pltl-12-0-16-3-0-200009.alaska,['(false R (((X p5) | (X (! p1))) | (X (! p2))))'],0,0,0
+pltl-12-0-44-3-0-200006.alaska,['(false R (((X (! p4)) | (X p7)) | (X p2)))'],0,10,10
+pltl-12-0-40-3-0-200008.alaska,['(false R (((X (! p3)) | (X p6)) | (X (! p12))))'],0,10,0
+pltl-5-0-11-3-0-200008.alaska,['(false R (((X (! p3)) | (X (! p1))) | (X (! p4))))'],0,0,0
+pltl-5-0-22-3-0-200001.alaska,['(false R (((X (! p2)) | (X p1)) | (X p4)))'],0,0,0
+pltl-12-0-10-3-0-200002.alaska,['(false R (((X (! p3)) | (X (! p11))) | (X p7)))'],0,0,0
+pltl-12-0-38-3-0-200009.alaska,['(false R (((X (! p10)) | (X (! p7))) | (X (! p12))))'],0,0,0
+pltl-5-0-2-3-0-200005.alaska,['(false R (((X p5) | (X (! p3))) | (X (! p1))))'],0,0,0
+phltl_14_13.alaska,"['(false R (true U p6))', '(false R ((! p6) | (X (X (X (X (X (X (X (X (X (X (X (X (X p6)))))))))))))))']",0,110,70
+pltl-12-0-40-3-0-200003.alaska,['(false R (((X p2) | (X p4)) | (X p10)))'],0,0,0
+pltl-5-0-18-3-0-200001.alaska,['(false R (((X p2) | (X p4)) | (X (! p1))))'],0,0,0
+pltl-5-0-18-3-0-200002.alaska,['(false R (((X p5) | (X (! p4))) | (X (! p1))))'],0,0,0
+pltl-12-0-9-3-0-200009.alaska,['(false R (((X (! p1)) | (X (! p4))) | (X (! p5))))'],0,0,0
+pltl-12-0-22-3-0-200003.alaska,['(false R (((X p4) | (X (! p6))) | (X p3)))'],0,0,0
+pltl-12-0-30-3-0-200008.alaska,['(false R (((X (! p9)) | (X (! p5))) | (X (! p1))))'],0,0,0
+pltl-12-0-9-3-0-200008.alaska,['(false R (((X p2) | (X (! p10))) | (X (! p4))))'],0,0,0
+pltl-12-0-30-3-0-200002.alaska,['(false R (((X p3) | (X (! p10))) | (X (! p9))))'],0,0,0
+pltl-12-0-37-3-0-200005.alaska,['(false R (((X (! p7)) | (X (! p9))) | (X p4)))'],0,0,0
+pltl-12-0-1-3-0-200001.alaska,['(false R (((X (! p3)) | (X p12)) | (X (! p8))))'],0,0,0
+pltl-5-0-18-3-0-200004.alaska,['(false R (((X p5) | (X p3)) | (X p4)))'],0,0,0
+pltl-12-0-14-3-0-200003.alaska,['(false R (((X p7) | (X (! p6))) | (X p8)))'],0,0,0
+pltl-12-0-53-3-0-200000.alaska,['(false R (((X p5) | (X p4)) | (X (! p8))))'],0,10,10
+pltl-5-0-16-3-0-200007.alaska,['(false R (((X p3) | (X (! p2))) | (X p5)))'],0,0,0
+pltl-5-0-17-3-0-200007.alaska,['(false R (((X p3) | (X p1)) | (X (! p2))))'],0,0,0
+pltl-5-0-3-3-0-200005.alaska,['(false R (((X p5) | (X p3)) | (X (! p4))))'],0,0,0
+pltl-12-0-39-3-0-200003.alaska,['(false R (((X p1) | (X (! p11))) | (X p7)))'],0,10,10
+pltl-5-0-3-3-0-200006.alaska,['(false R (((X (! p2)) | (X p4)) | (X (! p1))))'],0,0,0
+pltl-12-0-25-3-0-200001.alaska,['(false R (((X (! p7)) | (X p8)) | (X (! p5))))'],0,0,0
+pltl-5-0-5-3-0-200007.alaska,['(false R (((X p4) | (X p5)) | (X p2)))'],0,0,0
+pltl-5-0-10-3-0-200004.alaska,['(false R (((X (! p4)) | (X (! p2))) | (X p1)))'],0,0,0
+pltl-5-0-4-3-0-200005.alaska,['(false R (((X p5) | (X (! p3))) | (X p2)))'],0,0,0
+pltl-5-0-13-3-0-200002.alaska,['(false R (((X (! p4)) | (X p1)) | (X (! p3))))'],0,0,0
+pltl-12-0-47-3-0-200001.alaska,['(false R (((X (! p7)) | (X (! p9))) | (X (! p8))))'],0,10,10
+unsat208.txt,"['(false R ((! send) | ((! ack) U delivered)))', '(false R (send & ((! delivered) | ((! delivered) U (! ack)))))', '(false R ((! delivered) | ((! send) U ack)))']",0,0,0
+pltl-12-0-2-3-0-200003.alaska,['(false R (((X (! p8)) | (X p11)) | (X (! p1))))'],0,0,0
+pltl-12-0-38-3-0-200001.alaska,['(false R (((X (! p1)) | (X p11)) | (X p10)))'],0,0,10
+pltl-5-0-12-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p3))) | (X p2)))'],0,0,0
+pltl-12-0-24-3-0-200007.alaska,['(false R (((X (! p6)) | (X (! p1))) | (X (! p8))))'],0,0,0
+unsat74.txt,"['(false R (h | (! n)))', '(false R ((((! c) | (! m)) | (! n)) | d))', '(false R ((((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))) R ((X ((c & d) & (! n))) | (((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))))))', '(false R ((! a) | m))', '(false R (n | (! i)))']",0,0,0
+pltl-12-0-26-3-0-200003.alaska,['(false R (((X p9) | (X p1)) | (X p8)))'],0,0,0
+pltl-5-0-18-3-0-200008.alaska,['(false R (((X p1) | (X p2)) | (X (! p4))))'],0,0,0
+pltl-5-0-20-3-0-200005.alaska,['(false R (((X (! p4)) | (X (! p3))) | (X p1)))'],0,0,0
+pltl-5-0-10-3-0-200002.alaska,['(false R (((X (! p5)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-12-0-40-3-0-200009.alaska,['(false R (((X p5) | (X p12)) | (X p4)))'],0,0,0
+pltl-12-0-12-3-0-200006.alaska,['(false R (((X p4) | (X p1)) | (X p5)))'],0,0,0
+pltl-5-0-32-3-0-200008.alaska,['(false R (((X p3) | (X (! p5))) | (X (! p2))))'],0,0,0
+pltl-12-0-4-3-0-200002.alaska,['(false R (((X p1) | (X (! p9))) | (X (! p10))))'],0,0,0
+pltl-5-0-20-3-0-200003.alaska,['(false R (((X p4) | (X (! p1))) | (X (! p3))))'],0,0,0
+pltl-12-0-49-3-0-200002.alaska,['(false R (((X p7) | (X (! p6))) | (X p1)))'],0,10,10
+pltl-5-0-25-3-0-200005.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-12-0-13-3-0-200001.alaska,['(false R (((X (! p7)) | (X (! p5))) | (X (! p11))))'],0,0,0
+pltl-12-0-24-3-0-200001.alaska,['(false R (((X p4) | (X p8)) | (X (! p10))))'],0,0,0
+pltl-12-0-10-3-0-200000.alaska,['(false R (((X p12) | (X p9)) | (X p8)))'],0,0,0
+pltl-12-0-1-3-0-200006.alaska,['(false R (((X (! p5)) | (X p9)) | (X (! p7))))'],0,0,0
+pltl-12-0-40-3-0-200001.alaska,['(false R (((X p9) | (X p11)) | (X p3)))'],0,10,10
+pltl-12-0-37-3-0-200009.alaska,['(false R (((X p10) | (X p8)) | (X p5)))'],0,0,0
+pltl-12-0-33-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p9))) | (X p2)))'],0,10,0
+pltl-5-0-3-3-0-200007.alaska,['(false R (((X (! p4)) | (X (! p3))) | (X (! p2))))'],0,0,0
+pltl-12-0-4-3-0-200008.alaska,['(false R (((X p1) | (X p10)) | (X (! p6))))'],0,0,0
+pltl-5-0-1-3-0-200008.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X (! p4))))'],0,0,0
+pltl-12-0-39-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-5-0-4-3-0-200006.alaska,['(false R (((X (! p5)) | (X (! p4))) | (X p1)))'],0,0,0
+pltl-12-0-1-3-0-200009.alaska,['(false R (((X (! p2)) | (X (! p3))) | (X (! p8))))'],0,0,0
+pltl-12-0-19-3-0-200003.alaska,['(false R (((X (! p10)) | (X p7)) | (X p8)))'],0,0,0
+pltl-5-0-22-3-0-200007.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p1))))'],0,0,0
+pltl-5-0-1-3-0-200006.alaska,['(false R (((X p5) | (X p2)) | (X p3)))'],0,0,0
+pltl-12-0-25-3-0-200005.alaska,['(false R (((X p12) | (X (! p8))) | (X (! p10))))'],0,0,0
+phltl_28_27.alaska,"['(false R (true U p14))', '(false R ((! p14) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p14)))))))))))))))))))))))))))))']",0,4530,1410
+unsat40.txt,"['(false R (l | ((! m) & (X (! l)))))', '(false R ((! l) | (true U (! l))))']",0,0,0
+pltl-12-0-42-3-0-200003.alaska,['(false R (((X (! p8)) | (X p4)) | (X (! p1))))'],0,10,10
+pltl-12-0-7-3-0-200003.alaska,['(false R (((X p12) | (X (! p10))) | (X (! p7))))'],0,0,0
+pltl-5-0-19-3-0-200005.alaska,['(false R (((X p3) | (X (! p2))) | (X p1)))'],0,0,0
+phltl_22_21.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p1)))))))))))))))))))))))']",0,660,410
+pltl-5-0-18-3-0-200007.alaska,['(false R (((X p1) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-12-0-9-3-0-200002.alaska,['(false R (((X (! p10)) | (X (! p2))) | (X (! p7))))'],0,0,0
+pltl-12-0-10-3-0-200009.alaska,['(false R (((X (! p3)) | (X (! p11))) | (X (! p1))))'],0,0,0
+pltl-12-0-38-3-0-200005.alaska,['(false R (((X (! p7)) | (X (! p3))) | (X p1)))'],0,0,10
+phltl_10_9.alaska,"['(false R (true U p6))', '(false R ((! p6) | (X (X (X (X (X (X (X (X (X p6)))))))))))']",0,50,20
+pltl-12-0-37-3-0-200001.alaska,['(false R (((X (! p9)) | (X (! p7))) | (X p5)))'],0,0,0
+pltl-5-0-3-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p4))) | (X (! p1))))'],0,0,0
+pltl-12-0-25-3-0-200000.alaska,['(false R (((X (! p5)) | (X (! p9))) | (X (! p6))))'],0,0,0
+pltl-12-0-16-3-0-200008.alaska,['(false R (((X (! p3)) | (X (! p5))) | (X p9)))'],0,0,0
+pltl-5-0-27-3-0-200006.alaska,['(false R (((X p4) | (X p5)) | (X p2)))'],0,0,0
+pltl-5-0-2-3-0-200009.alaska,['(false R (((X p2) | (X (! p5))) | (X p3)))'],0,0,0
+pltl-12-0-4-3-0-200000.alaska,['(false R (((X p2) | (X p3)) | (X (! p5))))'],0,0,0
+pltl-12-0-14-3-0-200008.alaska,['(false R (((X (! p9)) | (X p1)) | (X (! p7))))'],0,0,0
+demo-v3_cl_5.alaska,"['(false R (true U req3))', '(false R ((! req3) | (((X grant3) | (X (X grant3))) | (X (X (X grant3))))))']",0,0,0
+pltl-5-0-16-3-0-200001.alaska,['(false R (((X p3) | (X (! p1))) | (X (! p4))))'],0,0,0
+pltl-12-0-40-3-0-200000.alaska,['(false R (((X p11) | (X (! p3))) | (X p6)))'],0,0,10
+pltl-5-0-5-3-0-200001.alaska,['(false R (((X (! p3)) | (X (! p4))) | (X p1)))'],0,0,0
+pltl-12-0-30-3-0-200000.alaska,['(false R (((X p2) | (X p1)) | (X (! p5))))'],0,0,0
+pltl-5-0-4-3-0-200008.alaska,['(false R (((X p3) | (X (! p5))) | (X p2)))'],0,0,0
+pltl-5-0-10-3-0-200000.alaska,['(false R (((X (! p3)) | (X p2)) | (X (! p1))))'],0,0,0
+pltl-12-0-53-3-0-200006.alaska,['(false R (((X (! p12)) | (X p1)) | (X p5)))'],0,20,20
+pltl-12-0-19-3-0-200001.alaska,['(false R (((X (! p9)) | (X p3)) | (X (! p4))))'],0,0,0
+phltl_18_17.alaska,"['(false R (true U p7))', '(false R ((! p7) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p7)))))))))))))))))))']",0,400,180
+pltl-12-0-57-3-0-200000.alaska,['(false R (((X p4) | (X (! p2))) | (X p7)))'],0,10,20
+pltl-5-0-21-3-0-200009.alaska,['(false R (((X p5) | (X (! p2))) | (X (! p4))))'],0,0,0
+pltl-5-0-17-3-0-200002.alaska,['(false R (((X p2) | (X p3)) | (X (! p1))))'],0,0,0
+pltl-5-0-13-3-0-200007.alaska,['(false R (((X p4) | (X (! p3))) | (X (! p2))))'],0,0,0
+pltl-5-0-17-3-0-200005.alaska,['(false R (((X p2) | (X (! p5))) | (X (! p3))))'],0,0,0
+pltl-5-0-32-3-0-200003.alaska,['(false R (((X (! p2)) | (X (! p3))) | (X (! p4))))'],0,0,0
+pltl-12-0-14-3-0-200001.alaska,['(false R (((X p5) | (X p10)) | (X p9)))'],0,0,0
+pltl-12-0-14-3-0-200002.alaska,['(false R (((X p3) | (X (! p7))) | (X p9)))'],0,0,0
+pltl-5-0-19-3-0-200008.alaska,['(false R (((X p4) | (X p5)) | (X (! p3))))'],0,0,0
+pltl-12-0-4-3-0-200005.alaska,['(false R (((X (! p11)) | (X p5)) | (X p8)))'],0,0,0
+pltl-12-0-2-3-0-200000.alaska,['(false R (((X (! p12)) | (X p6)) | (X p4)))'],0,0,0
+pltl-5-0-35-3-0-200003.alaska,['(false R (((X p4) | (X (! p5))) | (X (! p3))))'],0,0,0
+demo-v3_cl_2.alaska,"['(false R (true U req1))', '(false R ((! req1) | (((X grant1) | (X (X grant1))) | (X (X (X grant1))))))']",0,0,0
+pltl-5-0-15-3-0-200001.alaska,['(false R (((X p3) | (X p5)) | (X (! p4))))'],0,0,0
+phltl_7_6.alaska,"['(false R (true U p2))', '(false R ((! p2) | (X (X (X (X (X (X p2))))))))']",0,20,20
+pltl-12-0-25-3-0-200006.alaska,['(false R (((X (! p4)) | (X (! p8))) | (X (! p12))))'],0,0,0
+pltl-12-0-9-3-0-200001.alaska,['(false R (((X (! p6)) | (X p10)) | (X p7)))'],0,0,0
+pltl-5-0-19-3-0-200001.alaska,['(false R (((X p5) | (X (! p2))) | (X p1)))'],0,0,0
+pltl-5-0-16-3-0-200006.alaska,['(false R (((X (! p5)) | (X (! p4))) | (X p2)))'],0,0,0
+pltl-12-0-25-3-0-200004.alaska,['(false R (((X (! p2)) | (X (! p11))) | (X (! p6))))'],0,0,0
+phltl_17_16.alaska,"['(false R (true U p5))', '(false R ((! p5) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p5))))))))))))))))))']",0,220,140
+pltl-12-0-9-3-0-200006.alaska,['(false R (((X p1) | (X p9)) | (X (! p7))))'],0,0,0
+pltl-12-0-12-3-0-200003.alaska,['(false R (((X (! p8)) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-19-3-0-200004.alaska,['(false R (((X p5) | (X p4)) | (X (! p8))))'],0,0,0
+pltl-5-0-11-3-0-200007.alaska,['(false R (((X (! p3)) | (X p5)) | (X (! p2))))'],0,0,0
+pltl-12-0-6-3-0-200005.alaska,['(false R (((X p5) | (X (! p2))) | (X (! p4))))'],0,0,0
+pltl-12-0-24-3-0-200009.alaska,['(false R (((X p6) | (X p7)) | (X (! p1))))'],0,0,0
+pltl-12-0-13-3-0-200000.alaska,['(false R (((X (! p2)) | (X p3)) | (X (! p9))))'],0,0,0
+pltl-12-0-16-3-0-200000.alaska,['(false R (((X p11) | (X p5)) | (X (! p10))))'],0,0,0
+pltl-12-0-6-3-0-200009.alaska,['(false R (((X (! p5)) | (X (! p11))) | (X (! p12))))'],0,0,0
+pltl-5-0-35-3-0-200002.alaska,['(false R (((X p2) | (X p1)) | (X p3)))'],0,0,0
+pltl-12-0-53-3-0-200008.alaska,['(false R (((X p4) | (X (! p6))) | (X p3)))'],0,20,20
+pltl-5-0-19-3-0-200006.alaska,['(false R (((X p5) | (X p1)) | (X p4)))'],0,0,0
+pltl-5-0-16-3-0-200000.alaska,['(false R (((X p1) | (X p4)) | (X p2)))'],0,0,0
+pltl-5-0-10-3-0-200005.alaska,['(false R (((X p5) | (X (! p3))) | (X p4)))'],0,0,0
+pltl-5-0-2-3-0-200001.alaska,['(false R (((X (! p4)) | (X p3)) | (X p1)))'],0,0,0
+pltl-12-0-1-3-0-200000.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X (! p4))))'],0,0,0
+pltl-12-0-4-3-0-200001.alaska,['(false R (((X (! p10)) | (X (! p12))) | (X (! p5))))'],0,0,0
+pltl-5-0-35-3-0-200001.alaska,['(false R (((X (! p3)) | (X p4)) | (X (! p2))))'],0,0,0
+pltl-5-0-3-3-0-200009.alaska,['(false R (((X p1) | (X p2)) | (X p5)))'],0,0,0
+pltl-12-0-49-3-0-200001.alaska,['(false R (((X p1) | (X (! p2))) | (X p3)))'],0,0,10
+pltl-12-0-7-3-0-200006.alaska,['(false R (((X (! p2)) | (X (! p6))) | (X (! p1))))'],0,0,0
+pltl-12-0-44-3-0-200009.alaska,['(false R (((X p5) | (X p12)) | (X p2)))'],0,10,10
+pltl-12-0-22-3-0-200001.alaska,['(false R (((X p3) | (X (! p5))) | (X (! p11))))'],0,0,0
+pltl-12-0-13-3-0-200008.alaska,['(false R (((X p11) | (X p4)) | (X p9)))'],0,0,0
+pltl-5-0-27-3-0-200001.alaska,['(false R (((X (! p5)) | (X (! p4))) | (X (! p2))))'],0,0,0
+pltl-5-0-12-3-0-200000.alaska,['(false R (((X (! p3)) | (X p1)) | (X p2)))'],0,0,0
+pltl-12-0-39-3-0-200001.alaska,['(false R (((X (! p11)) | (X p3)) | (X p8)))'],0,0,0
+pltl-12-0-1-3-0-200003.alaska,['(false R (((X (! p11)) | (X p3)) | (X p2)))'],0,0,0
+pltl-12-0-25-3-0-200003.alaska,['(false R (((X p9) | (X p11)) | (X p5)))'],0,0,0
+pltl-5-0-17-3-0-200006.alaska,['(false R (((X p2) | (X p4)) | (X p3)))'],0,0,0
+pltl-12-0-47-3-0-200003.alaska,['(false R (((X (! p10)) | (X (! p3))) | (X (! p1))))'],0,20,20
+pltl-12-0-14-3-0-200004.alaska,['(false R (((X (! p5)) | (X p11)) | (X (! p8))))'],0,0,0
+pltl-12-0-38-3-0-200000.alaska,['(false R (((X p3) | (X (! p11))) | (X p2)))'],0,0,0
+pltl-5-0-20-3-0-200002.alaska,['(false R (((X p4) | (X p2)) | (X p3)))'],0,0,0
+pltl-5-0-2-3-0-200006.alaska,['(false R (((X (! p3)) | (X (! p4))) | (X p1)))'],0,0,0
+pltl-5-0-16-3-0-200009.alaska,['(false R (((X p3) | (X (! p2))) | (X (! p5))))'],0,0,0
+pltl-12-0-57-3-0-200007.alaska,['(false R (((X (! p2)) | (X p8)) | (X (! p12))))'],0,10,30
+pltl-12-0-38-3-0-200006.alaska,['(false R (((X (! p4)) | (X (! p12))) | (X p10)))'],0,0,0
+pltl-5-0-3-3-0-200008.alaska,['(false R (((X (! p2)) | (X p5)) | (X p1)))'],0,0,0
+pltl-12-0-9-3-0-200004.alaska,['(false R (((X (! p8)) | (X (! p2))) | (X p7)))'],0,0,0
+pltl-12-0-26-3-0-200007.alaska,['(false R (((X (! p7)) | (X p8)) | (X (! p11))))'],0,0,0
+pltl-12-0-49-3-0-200006.alaska,['(false R (((X p5) | (X (! p1))) | (X (! p10))))'],0,10,10
+pltl-5-0-20-3-0-200004.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p4)))'],0,0,0
+pltl-12-0-26-3-0-200009.alaska,['(false R (((X p10) | (X p6)) | (X (! p7))))'],0,0,0
+pltl-5-0-12-3-0-200009.alaska,['(false R (((X p2) | (X (! p5))) | (X (! p4))))'],0,0,0
+pltl-12-0-30-3-0-200009.alaska,['(false R (((X p4) | (X (! p1))) | (X p9)))'],0,0,0
+pltl-5-0-4-3-0-200001.alaska,['(false R (((X (! p2)) | (X p3)) | (X (! p5))))'],0,0,0
+pltl-5-0-30-3-0-200006.alaska,['(false R (((X (! p4)) | (X p1)) | (X (! p3))))'],0,0,0
+pltl-12-0-13-3-0-200006.alaska,['(false R (((X p9) | (X p5)) | (X (! p12))))'],0,0,0
+pltl-12-0-26-3-0-200002.alaska,['(false R (((X p1) | (X p12)) | (X (! p11))))'],0,0,0
+pltl-12-0-5-3-0-200003.alaska,['(false R (((X (! p4)) | (X p10)) | (X (! p1))))'],0,0,0
+pltl-12-0-38-3-0-200007.alaska,['(false R (((X p4) | (X (! p3))) | (X (! p2))))'],0,0,10
+pltl-5-0-27-3-0-200004.alaska,['(false R (((X (! p4)) | (X (! p5))) | (X p3)))'],0,0,0
+pltl-5-0-25-3-0-200003.alaska,['(false R (((X (! p4)) | (X p2)) | (X (! p1))))'],0,0,0
+pltl-12-0-13-3-0-200005.alaska,['(false R (((X p1) | (X (! p5))) | (X (! p12))))'],0,0,0
+pltl-5-0-35-3-0-200000.alaska,['(false R (((X p4) | (X (! p3))) | (X p2)))'],0,0,0
+pltl-12-0-44-3-0-200003.alaska,['(false R (((X p1) | (X p11)) | (X p3)))'],0,10,0
+pltl-5-0-18-3-0-200009.alaska,['(false R (((X p2) | (X p5)) | (X (! p3))))'],0,0,0
+pltl-12-0-7-3-0-200001.alaska,['(false R (((X (! p2)) | (X (! p1))) | (X p10)))'],0,0,0
+pltl-12-0-49-3-0-200004.alaska,['(false R (((X p5) | (X (! p7))) | (X p11)))'],0,10,20
+pltl-12-0-42-3-0-200006.alaska,['(false R (((X p11) | (X p9)) | (X p4)))'],0,0,10
+pltl-5-0-27-3-0-200005.alaska,['(false R (((X (! p1)) | (X p4)) | (X p5)))'],0,0,0
+pltl-12-0-40-3-0-200004.alaska,['(false R (((X p10) | (X (! p4))) | (X p3)))'],0,10,10
+pltl-12-0-57-3-0-200008.alaska,['(false R (((X (! p4)) | (X (! p3))) | (X p1)))'],0,10,20
+pltl-12-0-2-3-0-200009.alaska,['(false R (((X p9) | (X (! p8))) | (X (! p7))))'],0,0,0
+pltl-12-0-44-3-0-200000.alaska,['(false R (((X (! p10)) | (X p2)) | (X (! p1))))'],0,10,10
+pltl-12-0-26-3-0-200008.alaska,['(false R (((X p4) | (X (! p7))) | (X (! p2))))'],0,0,0
+pltl-12-0-5-3-0-200006.alaska,['(false R (((X p12) | (X (! p8))) | (X p7)))'],0,0,0
+pltl-5-0-11-3-0-200003.alaska,['(false R (((X (! p4)) | (X p1)) | (X p3)))'],0,0,0
+pltl-12-0-25-3-0-200002.alaska,['(false R (((X p1) | (X (! p12))) | (X (! p6))))'],0,0,0
+pltl-12-0-57-3-0-200006.alaska,['(false R (((X p2) | (X (! p1))) | (X (! p12))))'],0,10,20
+pltl-5-0-35-3-0-200008.alaska,['(false R (((X p3) | (X p1)) | (X (! p2))))'],0,0,0
+pltl-12-0-39-3-0-200000.alaska,['(false R (((X p9) | (X (! p5))) | (X p7)))'],0,0,10
+pltl-5-0-11-3-0-200002.alaska,['(false R (((X p4) | (X (! p5))) | (X p2)))'],0,0,0
+pltl-12-0-44-3-0-200004.alaska,['(false R (((X p2) | (X (! p4))) | (X (! p10))))'],0,10,10
+pltl-5-0-15-3-0-200004.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p1)))'],0,0,0
+pltl-5-0-22-3-0-200009.alaska,['(false R (((X p2) | (X p3)) | (X (! p1))))'],0,0,0
+pltl-12-0-7-3-0-200007.alaska,['(false R (((X (! p10)) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-2-3-0-200005.alaska,['(false R (((X p10) | (X p2)) | (X p11)))'],0,0,0
+pltl-5-0-17-3-0-200000.alaska,['(false R (((X (! p2)) | (X p1)) | (X p5)))'],0,0,0
+pltl-12-0-49-3-0-200000.alaska,['(false R (((X p2) | (X (! p7))) | (X p3)))'],0,10,10
+pltl-12-0-12-3-0-200000.alaska,['(false R (((X p6) | (X p4)) | (X (! p1))))'],0,0,0
+pltl-5-0-15-3-0-200009.alaska,['(false R (((X (! p2)) | (X p3)) | (X (! p5))))'],0,0,0
+pltl-5-0-18-3-0-200006.alaska,['(false R (((X (! p1)) | (X p3)) | (X p2)))'],0,0,0
+pltl-12-0-10-3-0-200006.alaska,['(false R (((X (! p2)) | (X (! p4))) | (X p5)))'],0,0,0
+pltl-12-0-33-3-0-200007.alaska,['(false R (((X (! p11)) | (X p12)) | (X (! p8))))'],0,0,0
+pltl-12-0-7-3-0-200000.alaska,['(false R (((X p11) | (X (! p6))) | (X p7)))'],0,0,0
+pltl-12-0-12-3-0-200004.alaska,['(false R (((X (! p3)) | (X p9)) | (X (! p2))))'],0,0,0
+pltl-12-0-4-3-0-200007.alaska,['(false R (((X (! p6)) | (X (! p2))) | (X (! p10))))'],0,0,0
+pltl-12-0-45-3-0-200006.alaska,['(false R (((X (! p9)) | (X p6)) | (X p12)))'],0,0,10
+pltl-5-0-15-3-0-200003.alaska,['(false R (((X p3) | (X (! p1))) | (X (! p4))))'],0,0,0
+pltl-12-0-16-3-0-200001.alaska,['(false R (((X p7) | (X p9)) | (X (! p2))))'],0,0,0
+pltl-5-0-1-3-0-200001.alaska,['(false R (((X p2) | (X (! p1))) | (X p4)))'],0,0,0
+pltl-12-0-19-3-0-200009.alaska,['(false R (((X (! p11)) | (X (! p5))) | (X (! p1))))'],0,0,0
+pltl-5-0-35-3-0-200007.alaska,['(false R (((X p2) | (X p1)) | (X (! p3))))'],0,0,0
+pltl-5-0-21-3-0-200007.alaska,['(false R (((X p4) | (X (! p5))) | (X p1)))'],0,0,0
+phltl_11_10.alaska,"['(false R (true U p2))', '(false R ((! p2) | (X (X (X (X (X (X (X (X (X (X p2))))))))))))']",0,50,30
+pltl-12-0-45-3-0-200008.alaska,['(false R (((X (! p6)) | (X (! p2))) | (X (! p8))))'],0,10,10
+pltl-12-0-58-3-0-200004.alaska,['(false R (((X (! p5)) | (X (! p3))) | (X p11)))'],0,10,20
+pltl-5-0-5-3-0-200003.alaska,['(false R (((X p1) | (X p2)) | (X p4)))'],0,0,0
+pltl-12-0-6-3-0-200001.alaska,['(false R (((X p3) | (X (! p1))) | (X (! p8))))'],0,0,0
+pltl-12-0-11-3-0-200000.alaska,['(false R (((X p8) | (X (! p10))) | (X (! p1))))'],0,0,0
+pltl-12-0-7-3-0-200009.alaska,['(false R (((X (! p11)) | (X p6)) | (X (! p3))))'],0,0,0
+pltl-12-0-2-3-0-200007.alaska,['(false R (((X p9) | (X (! p6))) | (X p8)))'],0,0,0
+pltl-12-0-22-3-0-200004.alaska,['(false R (((X p10) | (X (! p4))) | (X p9)))'],0,0,0
+pltl-5-0-21-3-0-200002.alaska,['(false R (((X (! p1)) | (X (! p2))) | (X p4)))'],0,0,0
+pltl-5-0-40-3-0-200007.alaska,['(false R (((X p3) | (X (! p4))) | (X (! p5))))'],0,0,0
+demo-v3_cl_11.alaska,"['(false R (true U req5))', '(false R ((! req5) | (((X grant5) | (X (X grant5))) | (X (X (X grant5))))))']",0,20,0
+pltl-12-0-12-3-0-200008.alaska,['(false R (((X p9) | (X p11)) | (X (! p1))))'],0,0,0
+pltl-12-0-37-3-0-200008.alaska,['(false R (((X (! p7)) | (X p10)) | (X (! p9))))'],0,10,0
+pltl-5-0-19-3-0-200004.alaska,['(false R (((X p2) | (X (! p1))) | (X (! p5))))'],0,0,0
+pltl-5-0-30-3-0-200008.alaska,['(false R (((X (! p3)) | (X p4)) | (X p2)))'],0,0,0
+pltl-5-0-20-3-0-200008.alaska,['(false R (((X p5) | (X (! p2))) | (X p1)))'],0,0,0
+pltl-12-0-66-3-0-200001.alaska,['(false R (((X (! p7)) | (X p11)) | (X (! p5))))'],10,20,20
+pltl-12-0-60-3-0-200007.alaska,['(false R (((X p3) | (X p10)) | (X p2)))'],10,20,10
+pltl-12-0-57-3-0-200002.alaska,['(false R (((X p3) | (X (! p5))) | (X (! p8))))'],10,10,20
+phltl_32_31.alaska,"['(false R ((! p31) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p31)))))))))))))))))))))))))))))))))', '(false R (true U p31))']",10,4370,3250
+phltl_26_25.alaska,"['(false R (true U p5))', '(false R ((! p5) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p5)))))))))))))))))))))))))))']",10,2350,1420
+phltl_30_29.alaska,"['(false R (true U p10))', '(false R ((! p10) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p10)))))))))))))))))))))))))))))))']",10,5090,2230
+pltl-12-0-53-3-0-200007.alaska,['(false R (((X p12) | (X p1)) | (X p11)))'],10,20,20
+phltl_31_30.alaska,"['(false R (true U p16))', '(false R ((! p16) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p16))))))))))))))))))))))))))))))))']",10,6570,2530
+pltl-12-0-66-3-0-200002.alaska,['(false R (((X (! p2)) | (X (! p11))) | (X (! p3))))'],10,20,20
+pltl-12-0-60-3-0-200000.alaska,['(false R (((X p10) | (X (! p5))) | (X (! p4))))'],10,20,20
+pltl-12-0-66-3-0-200004.alaska,['(false R (((X p9) | (X (! p6))) | (X p1)))'],10,30,20
+pltl-12-0-72-3-0-200003.alaska,['(false R (((X p2) | (X (! p11))) | (X (! p12))))'],10,30,30
+pltl-12-0-58-3-0-200005.alaska,['(false R (((X (! p5)) | (X p11)) | (X (! p7))))'],10,10,20
+pltl-12-0-57-3-0-200003.alaska,['(false R (((X (! p9)) | (X p10)) | (X (! p5))))'],10,10,20
+pltl-12-0-57-3-0-200005.alaska,['(false R (((X (! p4)) | (X p3)) | (X (! p9))))'],10,10,20
+pltl-12-0-78-3-0-200005.alaska,['(false R (((X p3) | (X (! p10))) | (X p7)))'],10,30,40
+pltl-12-0-47-3-0-200009.alaska,['(false R (((X p4) | (X (! p7))) | (X (! p8))))'],10,10,10
+pltl-12-0-59-3-0-200009.alaska,['(false R (((X (! p5)) | (X (! p9))) | (X (! p3))))'],10,20,10
+pltl-12-0-60-3-0-200006.alaska,['(false R (((X p10) | (X p5)) | (X (! p8))))'],10,10,20
+pltl-12-0-72-3-0-200000.alaska,['(false R (((X p6) | (X (! p10))) | (X (! p9))))'],10,20,20
+pltl-12-0-66-3-0-200005.alaska,['(false R (((X p12) | (X (! p7))) | (X p11)))'],10,20,20
+pltl-12-0-59-3-0-200004.alaska,['(false R (((X p12) | (X p6)) | (X p4)))'],10,10,10
+phltl_34_33.alaska,"['(false R (true U p19))', '(false R ((! p19) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p19)))))))))))))))))))))))))))))))))))']",10,13360,4050
+pltl-12-0-58-3-0-200001.alaska,['(false R (((X (! p11)) | (X p3)) | (X p1)))'],10,20,20
+pltl-12-0-57-3-0-200004.alaska,['(false R (((X p10) | (X p1)) | (X p2)))'],10,20,20
+pltl-12-0-60-3-0-200009.alaska,['(false R (((X p1) | (X (! p8))) | (X p2)))'],10,10,20
+phltl_33_32.alaska,"['(false R (true U p23))', '(false R ((! p23) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p23))))))))))))))))))))))))))))))))))']",10,7800,3460
+pltl-12-0-60-3-0-200002.alaska,['(false R (((X p10) | (X (! p3))) | (X (! p11))))'],10,20,20
+pltl-12-0-59-3-0-200008.alaska,['(false R (((X p12) | (X (! p7))) | (X p3)))'],10,10,20
+pltl-12-0-78-3-0-200000.alaska,['(false R (((X p12) | (X (! p4))) | (X p8)))'],10,30,30
+pltl-12-0-57-3-0-200001.alaska,['(false R (((X (! p6)) | (X (! p2))) | (X p12)))'],10,20,20
+pltl-12-0-84-3-0-200000.alaska,['(false R (((X (! p7)) | (X p10)) | (X (! p3))))'],20,30,40
+pltl-12-0-78-3-0-200007.alaska,['(false R (((X p5) | (X p7)) | (X (! p3))))'],20,30,40
+phltl_38_37.alaska,"['(false R ((! p20) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p20)))))))))))))))))))))))))))))))))))))))', '(false R (true U p20))']",20,24080,7940
+pltl-12-0-78-3-0-200009.alaska,['(false R (((X p3) | (X (! p5))) | (X (! p9))))'],20,30,30
+phltl_36_35.alaska,"['(false R (true U p5))', '(false R ((! p5) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p5)))))))))))))))))))))))))))))))))))))']",20,11590,5870
+pltl-12-0-78-3-0-200004.alaska,['(false R (((X p12) | (X p11)) | (X (! p3))))'],20,30,40
+pltl-12-0-90-3-0-200008.alaska,['(false R (((X p10) | (X p5)) | (X p9)))'],20,40,40
+pltl-12-0-90-3-0-200003.alaska,['(false R (((X p7) | (X p10)) | (X p6)))'],20,40,30
+pltl-12-0-90-3-0-200001.alaska,['(false R (((X p12) | (X p9)) | (X p3)))'],20,40,40
+pltl-12-0-78-3-0-200003.alaska,['(false R (((X (! p2)) | (X (! p5))) | (X p6)))'],20,30,40
+pltl-12-0-90-3-0-200009.alaska,['(false R (((X (! p5)) | (X p2)) | (X p8)))'],20,40,40
+pltl-12-0-90-3-0-200007.alaska,['(false R (((X (! p10)) | (X (! p9))) | (X p1)))'],20,40,40
+phltl_37_36.alaska,"['(false R (true U p35))', '(false R ((! p35) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p35))))))))))))))))))))))))))))))))))))))']",20,11900,6520
+pltl-12-0-90-3-0-200006.alaska,['(false R (((X (! p4)) | (X (! p6))) | (X p1)))'],20,40,40
+pltl-12-0-90-3-0-200002.alaska,['(false R (((X p6) | (X p7)) | (X p2)))'],20,30,40
+phltl_40_39.alaska,"['(false R (true U p17))', '(false R ((! p17) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p17)))))))))))))))))))))))))))))))))))))))))']",20,16940,10220
+pltl-12-0-78-3-0-200001.alaska,['(false R (((X p2) | (X p7)) | (X (! p11))))'],20,30,30
+pltl-12-0-84-3-0-200006.alaska,['(false R (((X (! p9)) | (X p12)) | (X (! p2))))'],20,40,40
+pltl-12-0-78-3-0-200008.alaska,['(false R (((X (! p4)) | (X p12)) | (X p5)))'],20,30,40
+pltl-12-0-78-3-0-200006.alaska,['(false R (((X p12) | (X (! p11))) | (X (! p5))))'],20,30,30
+pltl-12-0-90-3-0-200005.alaska,['(false R (((X (! p6)) | (X p9)) | (X p12)))'],20,40,30
+phltl_35_34.alaska,"['(false R (true U p18))', '(false R ((! p18) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p18))))))))))))))))))))))))))))))))))))']",20,12530,7090
+pltl-12-0-78-3-0-200002.alaska,['(false R (((X p10) | (X p9)) | (X p12)))'],20,40,40
+phltl_41_40.alaska,"['(false R (true U p26))', '(false R ((! p26) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p26))))))))))))))))))))))))))))))))))))))))))']",30,18800,11670
+pltl-12-0-90-3-0-200000.alaska,['(false R (((X p6) | (X (! p5))) | (X (! p10))))'],30,40,40
+pltl-12-0-90-3-0-200004.alaska,['(false R (((X (! p1)) | (X p7)) | (X p11)))'],30,30,40
+phltl_39_38.alaska,"['(false R (true U p34))', '(false R ((! p34) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p34))))))))))))))))))))))))))))))))))))))))']",40,28610,12070
+phltl_42_41.alaska,"['(false R (true U p30))', '(false R ((! p30) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p30)))))))))))))))))))))))))))))))))))))))))))']",40,21030,13190
+phltl_44_43.alaska,"['(false R (true U p17))', '(false R ((! p17) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p17)))))))))))))))))))))))))))))))))))))))))))))']",40,52220,16940
+phltl_43_42.alaska,"['(false R (true U p2))', '(false R ((! p2) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p2))))))))))))))))))))))))))))))))))))))))))))']",50,45570,14830
+phltl_46_45.alaska,"['(false R (true U p36))', '(false R ((! p36) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p36)))))))))))))))))))))))))))))))))))))))))))))))']",50,76480,22340
+phltl_45_44.alaska,"['(false R ((! p20) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p20))))))))))))))))))))))))))))))))))))))))))))))', '(false R (true U p20))']",60,57380,19760
+phltl_47_46.alaska,"['(false R (true U p22))', '(false R ((! p22) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p22))))))))))))))))))))))))))))))))))))))))))))))))']",60,66520,34830
+phltl_48_47.alaska,"['(false R (true U p5))', '(false R ((! p5) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p5)))))))))))))))))))))))))))))))))))))))))))))))))']",60,94890,28570
+phltl_49_48.alaska,"['(false R (true U p27))', '(false R ((! p27) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p27))))))))))))))))))))))))))))))))))))))))))))))))))']",90,129800,32320
+phltl_50_49.alaska,"['(false R (true U p1))', '(false R ((! p1) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p1)))))))))))))))))))))))))))))))))))))))))))))))))))']",100,72140,36300
+lift_11.alaska,[],,220,20
+unsat112.txt,[],,0,0
+spec_cl_14.alaska,[],,660,550
+unsat171.txt,[],,0,0
+unsat104.txt,[],,0,0
+counter15.alaska,[],,410,120
+unsat41.txt,[],,0,0
+counterLinear15.alaska,[],,290,180
+unsat105.txt,[],,0,0
+unsat149.txt,[],,0,0
+counterCarry16.alaska,[],,870,170
+spec_c_4.alaska,[],,235310,320800
+unsat198.txt,[],,0,0
+forobotsr1f0_FGn_mf.alaska,[],,10,0
+pltl-12-0-84-3-0-200002.alaska,[],,,
+unsat103.txt,[],,0,0
+spec_c_8.alaska,[],,370,470
+unsat203.txt,[],,0,0
+unsat161.txt,[],,0,0
+unsat69.txt,[],,0,20
+unsat143.txt,[],,0,0
+spec_cl_5.alaska,[],,320,330
+counterLinear7.alaska,[],,50,60
+lift_f_l_13.alaska,[],,1510,1660
+pltl-12-0-54-3-0-200004.alaska,[],,,
+counter10.alaska,[],,160,100
+unsat136.txt,[],,0,0
+unsat52.txt,[],,0,0
+lift_b_l_13.alaska,[],,640,780
+pltl-12-0-96-3-0-200005.alaska,[],,,
+lift_b_15.alaska,[],,630,630
+lift_f_l_16.alaska,[],,2450,2650
+O2formula400.alaska,[],,,
+unsat195.txt,[],,0,0
+forobotsr1f0_GF_mf.alaska,[],,10,0
+unsat84.txt,[],,0,0
+lift_6.alaska,[],,70,70
+O1formula90.alaska,[],,10,0
+lift_f_4.alaska,[],,80,70
+O1formula7.alaska,[],,0,0
+pltl-12-0-66-3-0-200007.alaska,[],,,
+unsat122.txt,[],,20,50
+forobotsr1f0_FGn_ra.alaska,[],,10,0
+unsat153.txt,[],,0,0
+forobotsr1f0_FGn_ff.alaska,[],,10,0
+lift_l_17.alaska,[],,3510,1250
+O2formula1000.alaska,[],,,
+unsat158.txt,[],,0,0
+unsat117.txt,[],,10,10
+pltl-12-0-60-3-0-200001.alaska,[],,,
+unsat213.txt,[],,0,0
+pltl-12-0-58-3-0-200003.alaska,[],,,
+unsat157.txt,[],,0,0
+lift_b_f_17.alaska,[],,1140,550
+lift_b_f_l_16.alaska,[],,11820,11700
+unsat48.txt,[],,0,0
+forobotsr1f0_Gn_ra.alaska,[],,10,0
+pltl-5-0-29-3-0-200004.alaska,[],,390,400
+unsat217.txt,[],,10,0
+unsat92.txt,[],,0,0
+unsat185.txt,[],,0,0
+unsat13.txt,[],,0,0
+forobotsr1f0_Gn_h1.alaska,[],,10,0
+unsat228.txt,[],,10,0
+pltl-12-0-61-3-0-200003.alaska,[],,,
+O1formula4.alaska,[],,0,0
+counterLinear17.alaska,[],,400,290
+forobotsr1f0_FGn_g.alaska,[],,10,0
+unsat38.txt,[],,0,0
+O1formula70.alaska,[],,10,0
+unsat94.txt,[],,0,0
+counterLinear12.alaska,[],,30,50
+counterCarryLinear3.alaska,[],,0,0
+spec_c_14.alaska,[],,510,570
+pltl-5-0-29-3-0-200000.alaska,[],,770,540
+counterCarryLinear16.alaska,[],,750,230
+lift_b_f_l_18.alaska,[],,1520,720
+unsat31.txt,[],,0,0
+pltl-12-0-66-3-0-200009.alaska,[],,,
+unsat220.txt,[],,10,20
+pltl-12-0-66-3-0-200008.alaska,[],,,
+lift_b_l_8.alaska,[],,200,200
+counterCarryLinear10.alaska,[],,90,40
+lift_7.alaska,[],,70,50
+lift_b_l_11.alaska,[],,250,230
+unsat8.txt,[],,0,0
+unsat170.txt,[],,0,0
+unsat65.txt,[],,0,0
+lift_12.alaska,[],,710,160
+unsat132.txt,[],,0,0
+unsat180.txt,[],,0,0
+pltl-12-0-84-3-0-200001.alaska,[],,,
+counterCarry8.alaska,[],,60,20
+counterLinear6.alaska,[],,10,10
+pltl-12-0-61-3-0-200009.alaska,[],,,
+unsat219.txt,[],,0,10
+counterCarryLinear14.alaska,[],,290,130
+unsat5.txt,[],,0,10
+unsat19.txt,[],,0,0
+counterCarry2.alaska,[],,0,0
+pltl-12-0-96-3-0-200004.alaska,[],,,
+lift_l_12.alaska,[],,180,50
+lift_b_5.alaska,[],,320,150
+spec_c_10.alaska,[],,480,570
+spec_cl_10.alaska,[],,1080,1100
+lift_b_6.alaska,[],,370,210
+lift_b_f_18.alaska,[],,488620,374780
+forobotsr1f0_FGn_re.alaska,[],,10,0
+unsat42.txt,[],,0,0
+O2formula50.alaska,[],,840,1090
+unsat98.txt,[],,0,0
+unsat67.txt,[],,0,10
+unsat138.txt,[],,0,0
+unsat142.txt,[],,0,0
+unsat131.txt,[],,0,0
+counter17.alaska,[],,650,360
+lift_b_l_15.alaska,[],,4990,
+unsat7.txt,[],,0,0
+unsat20.txt,[],,0,0
+counterCarryLinear19.alaska,[],,2010,1710
+pltl-12-0-45-3-0-200005.alaska,[],,,
+lift_b_12.alaska,[],,150,140
+lift_b_f_8.alaska,[],,950,710
+counterCarry5.alaska,[],,20,20
+lift_b_l_7.alaska,[],,310,230
+counterLinear9.alaska,[],,30,20
+forobotsr1f0_GF_re.alaska,[],,10,0
+unsat214.txt,[],,0,0
+unsat152.txt,[],,0,0
+O1formula5.alaska,[],,0,0
+counterCarry15.alaska,[],,460,130
+pltl-12-0-84-3-0-200004.alaska,[],,,
+counterCarryLinear13.alaska,[],,500,480
+pltl-12-0-56-3-0-200004.alaska,[],,,
+lift_b_f_l_2.alaska,[],,40,10
+O2formula500.alaska,[],,,
+unsat173.txt,[],,0,0
+lift_b_f_13.alaska,[],,920,300
+forobotsr1f0_Gn_mf.alaska,[],,10,0
+lift_b_f_7.alaska,[],,480,120
+unsat155.txt,[],,0,0
+unsat133.txt,[],,0,0
+lift_l_4.alaska,[],,50,70
+O1formula200.alaska,[],,30,10
+unsat85.txt,[],,0,0
+lift_16.alaska,[],,,130
+unsat96.txt,[],,0,0
+unsat196.txt,[],,0,0
+pltl-12-0-72-3-0-200007.alaska,[],,,
+unsat156.txt,[],,0,0
+counterCarryLinear12.alaska,[],,140,180
+unsat129.txt,[],,0,0
+unsat160.txt,[],,0,0
+unsat14.txt,[],,0,0
+unsat61.txt,[],,0,0
+unsat79.txt,[],,0,0
+O2formula10.alaska,[],,0,10
+lift_9.alaska,[],,200,20
+unsat23.txt,[],,0,0
+lift_b_f_9.alaska,[],,730,260
+unsat120.txt,[],,20,50
+unsat81.txt,[],,0,10
+O1formula10.alaska,[],,0,0
+unsat100.txt,[],,0,0
+forobotsr1f0_Gn_mh.alaska,[],,10,0
+unsat159.txt,[],,0,0
+unsat162.txt,[],,0,0
+unsat225.txt,[],,0,10
+lift_b_l_4.alaska,[],,20,20
+counterCarry13.alaska,[],,1280,1330
+unsat140.txt,[],,0,0
+counterLinear16.alaska,[],,90,150
+lift_f_l_8.alaska,[],,15310,14780
+unsat68.txt,[],,0,10
+unsat163.txt,[],,0,0
+spec_cl_19.alaska,[],,4010,2890
+unsat30.txt,[],,0,0
+lift_l_13.alaska,[],,390,410
+lift_f_2.alaska,[],,0,0
+lift_b_l_16.alaska,[],,320,390
+lift_b_f_5.alaska,[],,310,130
+lift_3.alaska,[],,10,10
+spec_cl_11.alaska,[],,570,560
+unsat87.txt,[],,0,0
+unsat137.txt,[],,0,0
+counterCarry9.alaska,[],,110,30
+unsat169.txt,[],,0,0
+unsat88.txt,[],,0,0
+lift_f_l_12.alaska,[],,420,370
+lift_b_f_l_5.alaska,[],,380,300
+unsat166.txt,[],,0,0
+unsat177.txt,[],,0,0
+pltl-12-0-56-3-0-200008.alaska,[],,,
+unsat151.txt,[],,0,0
+lift_b_l_17.alaska,[],,4630,3560
+unsat17.txt,[],,0,0
+unsat207.txt,[],,0,0
+lift_f_8.alaska,[],,3680,3730
+lift_l_10.alaska,[],,120,100
+unsat127.txt,[],,0,0
+lift_b_l_2.alaska,[],,10,10
+pltl-12-0-72-3-0-200006.alaska,[],,,
+counterCarryLinear7.alaska,[],,70,70
+unsat102.txt,[],,0,0
+lift_f_9.alaska,[],,5350,4610
+spec_cl_18.alaska,[],,5710,5230
+lift_f_l_14.alaska,[],,2000,4010
+O1formula300.alaska,[],,40,10
+unsat141.txt,[],,0,0
+unsat172.txt,[],,0,0
+lift_l_7.alaska,[],,90,20
+counter12.alaska,[],,320,50
+pltl-12-0-61-3-0-200001.alaska,[],,,
+unsat216.txt,[],,0,20
+forobotsr1f0_GF_mh.alaska,[],,10,0
+unsat1.txt,[],,0,0
+spec_c_6.alaska,[],,560,670
+lift_f_l_5.alaska,[],,60,70
+lift_f_l_9.alaska,[],,195030,95950
+unsat99.txt,[],,0,0
+spec_c_1.alaska,[],,110,130
+O2formula20.alaska,[],,60,70
+spec_cl_6.alaska,[],,400,420
+unsat78.txt,[],,0,20
+lift_l_11.alaska,[],,130,210
+counterLinear13.alaska,[],,400,460
+pltl-12-0-72-3-0-200008.alaska,[],,,
+lift_b_9.alaska,[],,570,110
+unsat227.txt,[],,10,0
+spec_c_15.alaska,[],,1600,1410
+spec_c_13.alaska,[],,860,1380
+pltl-12-0-61-3-0-200004.alaska,[],,,
+pltl-12-0-56-3-0-200002.alaska,[],,,
+counter7.alaska,[],,40,10
+O1formula700.alaska,[],,140,40
+unsat9.txt,[],,0,10
+pltl-5-0-29-3-0-200008.alaska,[],,440,340
+O2formula700.alaska,[],,,
+O2formula5.alaska,[],,0,0
+counter2.alaska,[],,0,0
+O1formula1000.alaska,[],,300,110
+lift_14.alaska,[],,1210,270
+counter11.alaska,[],,260,100
+unsat109.txt,[],,0,0
+unsat174.txt,[],,0,0
+pltl-12-0-59-3-0-200007.alaska,[],,,
+forobotsr1f0_G_d.alaska,[],,0,0
+lift_b_f_11.alaska,[],,4760,4470
+counterCarry10.alaska,[],,220,260
+unsat130.txt,[],,0,0
+unsat125.txt,[],,30,60
+O1formula500.alaska,[],,110,30
+counterCarry20.alaska,[],,1780,420
+pltl-12-0-72-3-0-200009.alaska,[],,,
+pltl-5-0-28-3-0-200003.alaska,[],,620,620
+O1formula20.alaska,[],,0,0
+forobotsr1f0_G_mf.alaska,[],,10,0
+unsat123.txt,[],,20,60
+unsat53.txt,[],,0,10
+spec_c_16.alaska,[],,1770,2090
+O2formula90.alaska,[],,4670,7860
+forobotsr1f0_G_g.alaska,[],,10,0
+lift_5.alaska,[],,30,20
+unsat189.txt,[],,0,0
+counterCarryLinear15.alaska,[],,280,480
+pltl-12-0-84-3-0-200003.alaska,[],,,
+unsat54.txt,[],,0,0
+O2formula3.alaska,[],,0,0
+unsat76.txt,[],,0,0
+lift_f_15.alaska,[],,,
+unsat93.txt,[],,0,0
+pltl-12-0-96-3-0-200006.alaska,[],,,
+lift_f_l_2.alaska,[],,0,0
+lift_b_f_2.alaska,[],,30,0
+pltl-12-0-58-3-0-200002.alaska,[],,,
+spec_cl_7.alaska,[],,870,870
+lift_b_f_l_15.alaska,[],,22940,18750
+spec_c_2.alaska,[],,90,100
+counterCarry3.alaska,[],,0,0
+forobotsr1f0_FGn_mh.alaska,[],,20,0
+lift_b_l_12.alaska,[],,680,810
+pltl-12-0-56-3-0-200009.alaska,[],,,
+O1formula6.alaska,[],,0,0
+lift_f_5.alaska,[],,80,60
+pltl-12-0-48-3-0-200006.alaska,[],,,
+unsat113.txt,[],,0,0
+unsat26.txt,[],,0,10
+pltl-12-0-61-3-0-200005.alaska,[],,,
+unsat63.txt,[],,0,0
+lift_f_7.alaska,[],,2380,2380
+unsat34.txt,[],,0,0
+unsat168.txt,[],,0,0
+pltl-12-0-61-3-0-200006.alaska,[],,,
+counter14.alaska,[],,220,90
+pltl-12-0-84-3-0-200005.alaska,[],,,
+lift_b_f_4.alaska,[],,90,40
+unsat116.txt,[],,10,10
+O2formula300.alaska,[],,,
+unsat175.txt,[],,0,0
+lift_b_f_16.alaska,[],,1770,1230
+unsat147.txt,[],,0,0
+lift_b_f_l_9.alaska,[],,280,410
+unsat72.txt,[],,0,0
+lift_b_14.alaska,[],,340,320
+unsat215.txt,[],,0,0
+unsat24.txt,[],,0,10
+lift_b_l_5.alaska,[],,210,240
+lift_b_l_18.alaska,[],,980,560
+lift_f_11.alaska,[],,6940,5350
+counterCarryLinear5.alaska,[],,10,0
+pltl-12-0-66-3-0-200003.alaska,[],,,
+counterCarry19.alaska,[],,1580,550
+unsat201.txt,[],,0,0
+lift_f_l_10.alaska,[],,320,270
+counterCarryLinear2.alaska,[],,0,0
+pltl-12-0-66-3-0-200000.alaska,[],,,
+unsat32.txt,[],,0,10
+unsat178.txt,[],,0,0
+pltl-5-0-28-3-0-200002.alaska,[],,820,930
+pltl-12-0-72-3-0-200005.alaska,[],,,
+forobotsr1f0_GF_h1.alaska,[],,20,0
+spec_cl_13.alaska,[],,1030,1250
+counterLinear10.alaska,[],,100,30
+pltl-5-0-29-3-0-200003.alaska,[],,420,350
+unsat114.txt,[],,0,0
+unsat59.txt,[],,0,0
+spec_cl_12.alaska,[],,870,990
+unsat47.txt,[],,10,10
+O2formula70.alaska,[],,1840,3440
+unsat55.txt,[],,0,0
+lift_b_l_3.alaska,[],,70,140
+O1formula80.alaska,[],,10,0
+lift_b_13.alaska,[],,330,160
+lift_b_l_10.alaska,[],,490,410
+lift_8.alaska,[],,110,120
+O2formula600.alaska,[],,,
+counterCarry7.alaska,[],,30,10
+pltl-12-0-54-3-0-200009.alaska,[],,,
+forobotsr1f0_Gn_l.alaska,[],,10,0
+O2formula4.alaska,[],,0,0
+forobotsr1f0_FGn_s1.alaska,[],,10,0
+unsat197.txt,[],,0,0
+lift_b_f_l_6.alaska,[],,450,340
+pltl-12-0-56-3-0-200006.alaska,[],,,
+forobotsr1f0_G_ra.alaska,[],,10,0
+unsat222.txt,[],,0,0
+unsat181.txt,[],,0,0
+spec_c_17.alaska,[],,1640,2050
+counterLinear3.alaska,[],,0,0
+lift_10.alaska,[],,450,390
+unsat33.txt,[],,0,0
+unsat6.txt,[],,0,0
+lift_b_2.alaska,[],,10,0
+unsat44.txt,[],,0,0
+unsat187.txt,[],,0,0
+pltl-12-0-96-3-0-200009.alaska,[],,,
+unsat111.txt,[],,0,0
+forobotsr1f0_GF_l.alaska,[],,10,0
+lift_l_2.alaska,[],,0,0
+counterCarryLinear20.alaska,[],,1170,540
+O2formula60.alaska,[],,1320,2150
+counter16.alaska,[],,930,150
+pltl-12-0-96-3-0-200003.alaska,[],,,
+unsat128.txt,[],,0,0
+unsat144.txt,[],,0,0
+spec_cl_17.alaska,[],,1800,1870
+spec_cl_1.alaska,[],,120,160
+unsat56.txt,[],,0,0
+lift_b_f_l_11.alaska,[],,1030,490
+unsat110.txt,[],,0,0
+pltl-12-0-72-3-0-200004.alaska,[],,,
+unsat64.txt,[],,0,0
+spec_cl_9.alaska,[],,800,800
+pltl-12-0-47-3-0-200005.alaska,[],,,
+pltl-12-0-72-3-0-200001.alaska,[],,,
+unsat50.txt,[],,10,10
+unsat28.txt,[],,0,0
+unsat119.txt,[],,20,60
+O1formula30.alaska,[],,10,0
+counter3.alaska,[],,0,0
+unsat80.txt,[],,0,0
+O1formula400.alaska,[],,80,20
+unsat199.txt,[],,0,0
+O2formula7.alaska,[],,0,0
+lift_f_l_15.alaska,[],,4020,4300
+counterCarry12.alaska,[],,370,290
+pltl-12-0-66-3-0-200006.alaska,[],,,
+spec_cl_20.alaska,[],,2740,2800
+unsat224.txt,[],,10,30
+unsat107.txt,[],,0,0
+pltl-5-0-28-3-0-200004.alaska,[],,510,570
+counter5.alaska,[],,20,20
+counterLinear20.alaska,[],,810,450
+unsat205.txt,[],,0,0
+O1formula2.alaska,[],,0,0
+unsat70.txt,[],,0,10
+lift_b_18.alaska,[],,1420,470
+pltl-12-0-61-3-0-200008.alaska,[],,,
+pltl-12-0-60-3-0-200004.alaska,[],,,
+lift_b_f_l_17.alaska,[],,,
+counter6.alaska,[],,30,0
+unsat182.txt,[],,0,0
+pltl-12-0-61-3-0-200000.alaska,[],,,
+lift_f_6.alaska,[],,1090,1120
+lift_b_f_6.alaska,[],,420,280
+O2formula2.alaska,[],,0,0
+unsat97.txt,[],,0,0
+spec_cl_4.alaska,[],,290,320
+pltl-12-0-96-3-0-200007.alaska,[],,,
+lift_b_f_l_4.alaska,[],,190,210
+O1formula8.alaska,[],,0,0
+unsat29.txt,[],,0,0
+unsat2.txt,[],,0,0
+counter13.alaska,[],,610,480
+lift_b_f_l_10.alaska,[],,1720,1920
+unsat25.txt,[],,0,10
+lift_b_16.alaska,[],,450,350
+forobotsr1f0_FGn_h1.alaska,[],,10,0
+pltl-12-0-61-3-0-200002.alaska,[],,,
+O2formula900.alaska,[],,,
+unsat57.txt,[],,0,0
+lift_l_16.alaska,[],,730,480
+unsat66.txt,[],,0,0
+unsat193.txt,[],,0,0
+spec_c_12.alaska,[],,620,750
+lift_2.alaska,[],,0,0
+unsat95.txt,[],,0,0
+O1formula60.alaska,[],,0,0
+lift_l_18.alaska,[],,5100,310
+unsat139.txt,[],,0,0
+pltl-12-0-96-3-0-200000.alaska,[],,,
+lift_b_17.alaska,[],,620,430
+lift_17.alaska,[],,1130,150
+forobotsr1f0_F_mhandra.alaska,[],,20,0
+O1formula40.alaska,[],,0,0
+pltl-12-0-84-3-0-200007.alaska,[],,,
+lift_15.alaska,[],,700,290
+unsat37.txt,[],,0,0
+unsat204.txt,[],,0,0
+spec_cl_16.alaska,[],,2010,1730
+O2formula40.alaska,[],,460,480
+unsat183.txt,[],,0,0
+forobotsr1f0_G_h1.alaska,[],,10,0
+pltl-12-0-45-3-0-200003.alaska,[],,,
+counterCarryLinear9.alaska,[],,60,30
+lift_f_10.alaska,[],,1620,1460
+O2formula8.alaska,[],,0,0
+pltl-5-0-29-3-0-200006.alaska,[],,760,620
+lift_f_12.alaska,[],,1530,620
+counter20.alaska,[],,2110,350
+counterCarryLinear4.alaska,[],,0,10
+unsat165.txt,[],,0,10
+unsat12.txt,[],,0,10
+pltl-12-0-96-3-0-200002.alaska,[],,,
+pltl-12-0-59-3-0-200005.alaska,[],,,
+counterCarry6.alaska,[],,50,40
+O2formula800.alaska,[],,,
+unsat75.txt,[],,0,10
+unsat39.txt,[],,0,0
+O1formula600.alaska,[],,110,40
+unsat21.txt,[],,0,0
+spec_c_3.alaska,[],,150,190
+unsat118.txt,[],,10,10
+counterCarryLinear8.alaska,[],,90,90
+unsat124.txt,[],,20,60
+counterLinear18.alaska,[],,1470,1450
+O2formula100.alaska,[],,6930,11850
+lift_f_l_6.alaska,[],,400,310
+counter18.alaska,[],,520,470
+unsat62.txt,[],,0,0
+O1formula800.alaska,[],,200,60
+unsat212.txt,[],,0,0
+spec_cl_8.alaska,[],,380,380
+unsat154.txt,[],,0,0
+unsat200.txt,[],,0,0
+lift_f_l_11.alaska,[],,3300,4220
+pltl-12-0-60-3-0-200003.alaska,[],,,
+lift_b_7.alaska,[],,430,50
+pltl-12-0-59-3-0-200000.alaska,[],,,
+lift_f_13.alaska,[],,5570,2530
+lift_l_3.alaska,[],,40,20
+lift_18.alaska,[],,1030,180
+forobotsr1f0_Gn_g.alaska,[],,10,0
+counterCarryLinear17.alaska,[],,600,280
+unsat51.txt,[],,0,0
+counterLinear8.alaska,[],,60,80
+counterCarryLinear6.alaska,[],,10,10
+unsat58.txt,[],,0,0
+lift_f_l_7.alaska,[],,20010,13630
+pltl-12-0-59-3-0-200003.alaska,[],,,
+unsat45.txt,[],,0,0
+pltl-12-0-96-3-0-200008.alaska,[],,,
+pltl-12-0-59-3-0-200001.alaska,[],,,
+counterLinear4.alaska,[],,0,0
+unsat18.txt,[],,0,0
+lift_f_l_17.alaska,[],,,203570
+unsat135.txt,[],,0,0
+forobotsr1f0_GF_ra.alaska,[],,10,0
+spec_cl_15.alaska,[],,1780,1450
+unsat148.txt,[],,0,0
+unsat101.txt,[],,0,0
+O2formula80.alaska,[],,3090,5500
+forobotsr1f0_G_l.alaska,[],,20,0
+unsat206.txt,[],,0,0
+unsat223.txt,[],,10,10
+unsat73.txt,[],,0,10
+lift_f_3.alaska,[],,20,20
+spec_cl_3.alaska,[],,110,120
+unsat188.txt,[],,0,0
+counter4.alaska,[],,0,0
+pltl-12-0-54-3-0-200001.alaska,[],,,
+counterCarry4.alaska,[],,10,0
+lift_b_f_15.alaska,[],,1140,820
+unsat115.txt,[],,0,0
+spec_c_19.alaska,[],,1790,1340
+lift_b_10.alaska,[],,200,210
+forobotsr1f0_G_mh.alaska,[],,10,0
+spec_c_20.alaska,[],,1740,2100
+O1formula9.alaska,[],,0,0
+lift_b_l_9.alaska,[],,210,340
+lift_f_l_4.alaska,[],,110,120
+counterLinear19.alaska,[],,1410,1840
+unsat184.txt,[],,0,0
+unsat46.txt,[],,0,0
+unsat27.txt,[],,0,0
+unsat146.txt,[],,0,0
+lift_f_18.alaska,[],,5990,2210
+unsat15.txt,[],,0,10
+unsat36.txt,[],,10,10
+lift_f_l_3.alaska,[],,60,50
+counterLinear5.alaska,[],,0,0
+unsat71.txt,[],,0,10
+unsat150.txt,[],,0,0
+unsat226.txt,[],,0,10
+lift_b_f_l_13.alaska,[],,1300,1330
+spec_cl_2.alaska,[],,130,120
+counterCarry14.alaska,[],,260,100
+unsat179.txt,[],,0,0
+pltl-12-0-59-3-0-200002.alaska,[],,,
+unsat49.txt,[],,10,10
+lift_b_3.alaska,[],,60,60
+lift_b_f_3.alaska,[],,200,60
+lift_b_l_14.alaska,[],,2860,3410
+O2formula9.alaska,[],,0,0
+lift_b_f_14.alaska,[],,1030,670
+counter19.alaska,[],,1650,290
+spec_c_7.alaska,[],,720,870
+counterCarry11.alaska,[],,260,200
+spec_c_11.alaska,[],,370,340
+lift_l_9.alaska,[],,490,440
+pltl-12-0-72-3-0-200002.alaska,[],,,
+unsat10.txt,[],,0,0
+unsat60.txt,[],,0,0
+spec_c_5.alaska,[],,200,250
+O1formula50.alaska,[],,0,0
+pltl-12-0-84-3-0-200008.alaska,[],,,
+counter9.alaska,[],,100,100
+pltl-5-0-29-3-0-200001.alaska,[],,500,360
+forobotsr1f0_Gn_d.alaska,[],,10,0
+pltl-12-0-96-3-0-200001.alaska,[],,,
+unsat83.txt,[],,0,10
+counterCarryLinear11.alaska,[],,160,140
+lift_l_6.alaska,[],,120,110
+lift_b_f_l_12.alaska,[],,24670,23540
+pltl-12-0-48-3-0-200009.alaska,[],,,
+spec_c_18.alaska,[],,1890,2220
+lift_b_4.alaska,[],,10,10
+pltl-12-0-60-3-0-200005.alaska,[],,,
+forobotsr1f0_GF_d.alaska,[],,20,0
+O1formula100.alaska,[],,10,0
+lift_l_14.alaska,[],,840,770
+unsat90.txt,[],,0,0
+unsat121.txt,[],,20,50
+pltl-12-0-60-3-0-200008.alaska,[],,,
+forobotsr1f0_FGn_l.alaska,[],,10,0
+lift_b_f_l_7.alaska,[],,680,410
+unsat43.txt,[],,0,0
+forobotsr1f0_GF_g.alaska,[],,10,0
+counterLinear14.alaska,[],,240,130
+O1formula900.alaska,[],,210,80
+counterCarry18.alaska,[],,1240,270
+pltl-5-0-28-3-0-200000.alaska,[],,470,480
+unsat218.txt,[],,0,0
+counterCarry17.alaska,[],,830,210
+counterLinear11.alaska,[],,80,50
+unsat82.txt,[],,0,0
+lift_13.alaska,[],,2280,280
+forobotsr1f0_Gn_re.alaska,[],,10,0
+counterCarryLinear18.alaska,[],,1750,1720
+spec_c_9.alaska,[],,480,660
+unsat126.txt,[],,30,50
+unsat176.txt,[],,0,0
+forobotsr1f0_G_s1.alaska,[],,10,0
+O1formula3.alaska,[],,0,0
+unsat164.txt,[],,0,0
+forobotsr1f0_GF_s1.alaska,[],,10,0
+lift_l_15.alaska,[],,310,800
+lift_b_l_6.alaska,[],,210,310
+unsat167.txt,[],,0,0
+unsat77.txt,[],,0,10
+unsat91.txt,[],,0,0
+lift_b_f_l_8.alaska,[],,260,290
+unsat11.txt,[],,0,0
+lift_l_5.alaska,[],,40,40
+lift_l_8.alaska,[],,110,150
+unsat134.txt,[],,0,0
+unsat229.txt,[],,0,0
+lift_b_f_l_3.alaska,[],,140,70
+lift_4.alaska,[],,30,180
+unsat89.txt,[],,0,0
+O2formula6.alaska,[],,0,0
+O2formula200.alaska,[],,85010,161220
+lift_b_f_12.alaska,[],,5530,4370
+forobotsr1f0_FGn_d.alaska,[],,10,0
+counter8.alaska,[],,30,10
+lift_b_8.alaska,[],,120,110
+counterLinear2.alaska,[],,0,0
+forobotsr1f0_G_re.alaska,[],,10,0
+unsat221.txt,[],,0,10
+unsat145.txt,[],,0,0
+unsat22.txt,[],,0,10
+O2formula30.alaska,[],,210,230
+pltl-12-0-84-3-0-200009.alaska,[],,,
+forobotsr1f0_Gn_s1.alaska,[],,10,0
+unsat86.txt,[],,0,0
+lift_b_f_10.alaska,[],,430,250
+lift_b_11.alaska,[],,420,470

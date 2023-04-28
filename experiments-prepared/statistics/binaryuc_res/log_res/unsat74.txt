@@ -1,0 +1,18 @@
+please input the formula:
+SAT:12
+UC:4
+UCValid:4
+UCInvalid:0
+UCSatTime:0ms
+MUC:
+(false R ((! a) | m))
+(false R (h | (! n)))
+(false R (n | (! i)))
+(false R ((((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))) R ((X ((c & d) & (! n))) | (((! h) & i) R (((! h) & i) | (a & (true U ((c & (! d)) & i))))))))
+(false R ((((! c) | (! m)) | (! n)) | d))
+LengthComp:
+(5,5)
+(4,3)
+(4,2)
+(5,2)
+The run time is:0ms

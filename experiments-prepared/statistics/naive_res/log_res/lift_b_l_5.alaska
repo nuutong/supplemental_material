@@ -1,0 +1,8 @@
+please input the formula:
+SAT:22
+UC:0
+MUC:
+(false R ((((((! b0) | (true U (((! bf0) & (! bf1)) & (! bf2)))) & ((! b1) | (true U ((bf0 & (! bf1)) & (! bf2))))) & ((! b2) | (true U (((! bf0) & bf1) & (! bf2))))) & ((! b3) | (true U ((bf0 & bf1) & (! bf2))))) & ((! b4) | (true U (((! bf0) & (! bf1)) & bf2)))))
+(false R (true U b3))
+(false R (true U b0))
+The run time is:2690ms

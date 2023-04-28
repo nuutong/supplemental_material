@@ -1,0 +1,17 @@
+please input the formula:
+SAT:22
+UC:11
+UCValid:4
+UCInvalid:7
+UCSatTime:90ms
+MUC:
+(false R (true U b4))
+(false R (((((((((! b0) | (true U f0)) & ((! b1) | (true U f1))) & ((! b2) | (true U f2))) & ((! b3) | (true U f3))) & ((! b4) | (true U f4))) & ((! b5) | (true U f5))) & ((! b6) | (true U f6))) & ((! b7) | (true U f7))))
+(false R ((((((((! f0) | (((((((! f1) & (! f2)) & (! f3)) & (! f4)) & (! f5)) & (! f6)) & (! f7))) & ((! f1) | ((((((! f2) & (! f3)) & (! f4)) & (! f5)) & (! f6)) & (! f7)))) & ((! f2) | (((((! f3) & (! f4)) & (! f5)) & (! f6)) & (! f7)))) & ((! f3) | ((((! f4) & (! f5)) & (! f6)) & (! f7)))) & ((! f4) | (((! f5) & (! f6)) & (! f7)))) & ((! f5) | ((! f6) & (! f7)))) & ((! f6) | (! f7))))
+(false R (true U b3))
+LengthComp:
+(4,4)
+(4,3)
+(4,2)
+(4,1)
+The run time is:540ms

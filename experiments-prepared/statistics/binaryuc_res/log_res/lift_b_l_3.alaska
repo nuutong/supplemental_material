@@ -1,0 +1,12 @@
+please input the formula:
+SAT:16
+UC:6
+UCValid:0
+UCInvalid:6
+UCSatTime:30ms
+MUC:
+(false R (true U b0))
+(false R (((((! u) | ((((! bf0) | (X bf0)) & ((N (! bf0)) | bf0)) & (((! bf1) | (X bf1)) & ((N (! bf1)) | bf1)))) & ((bf0 | bf1) | (X (((! bf0) & (! bf1)) | (bf0 & (! bf1)))))) & (((! bf0) | bf1) | (X ((((! bf0) & (! bf1)) | (bf0 & (! bf1))) | ((! bf0) & bf1))))) & ((bf0 | (! bf1)) | (X ((bf0 & (! bf1)) | ((! bf0) & bf1))))))
+(false R ((((u | (((((! b0) | (X b0)) & ((N (! b0)) | b0)) & (((! b1) | (X b1)) & ((N (! b1)) | b1))) & (((! b2) | (X b2)) & ((N (! b2)) | b2)))) & (((! b0) | ((! bf0) & (! bf1))) | (X b0))) & (((! b1) | (bf0 & (! bf1))) | (X b1))) & (((! b2) | ((! bf0) & bf1)) | (X b2))))
+LengthComp:
+The run time is:140ms

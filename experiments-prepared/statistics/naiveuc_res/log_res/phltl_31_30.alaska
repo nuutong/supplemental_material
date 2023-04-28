@@ -1,0 +1,6 @@
+2
+please input the formula:
+MUC:
+(false R (true U p26))
+(false R ((! p26) | (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X (X p26))))))))))))))))))))))))))))))))
+The run time is:3240ms

@@ -1,0 +1,12 @@
+please input the formula:
+SAT:8
+UC:4
+UCValid:1
+UCInvalid:3
+UCSatTime:460ms
+MUC:
+a
+(false R ((! a) | (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X ((! a) & (X a)))))))))))))))))))))))))))))))))))))))
+LengthComp:
+(2,1)
+The run time is:1280ms

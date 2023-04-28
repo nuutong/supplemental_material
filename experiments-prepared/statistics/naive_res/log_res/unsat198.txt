@@ -1,0 +1,10 @@
+please input the formula:
+SAT:5
+UC:0
+MUC:
+((((true U (go & ta)) | (true U (cc & tc))) | (true U ((ta & (X (! tc))) | ((! ta) & (X tc))))) | (((! ca) | (! go)) & (X cc)))
+(false R (((! ta) | (X tc)) & ((N (! tc)) | ta)))
+(false R ((! ta) | (! go)))
+(false R ((! tc) | (! cc)))
+(false R ((N (! cc)) | (ca & go)))
+The run time is:0ms
